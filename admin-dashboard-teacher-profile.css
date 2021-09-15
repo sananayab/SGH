@@ -1,0 +1,600 @@
+/* screen - admin-dashboard-teacher-profile */
+
+.admin-dashboard-teacher-profile {
+  background-color: var(--white);
+  height: 998px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.admin-dashboard-teacher-profile .x1-C61RwL {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.admin-dashboard-teacher-profile .header-GML0ip {
+  background-color: transparent;
+  bottom: 0px;
+  height: 52px;
+  left: 50px;
+  position: absolute;
+  width: calc(100.00% - 100px);
+}
+
+.admin-dashboard-teacher-profile .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .menu-yPuPNE {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 209px;
+}
+
+.admin-dashboard-teacher-profile .group-3-8a43S6 {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 211px;
+}
+
+.admin-dashboard-teacher-profile .university-XjJ7Hp {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.admin-dashboard-teacher-profile .logo-XjJ7Hp {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.admin-dashboard-teacher-profile .x3-yPuPNE {
+  background-color: transparent;
+  height: 22px;
+  left: 1796px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.admin-dashboard-teacher-profile .signup-btn-yPuPNE {
+  background-color: transparent;
+  height: 48px;
+  left: 1396px;
+  position: absolute;
+  top: 4px;
+  width: 193px;
+}
+
+.admin-dashboard-teacher-profile .rectangle-1-Cmaz2e {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .sign-up-for-free-Cmaz2e {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.admin-dashboard-teacher-profile .x1-GML0ip {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .header-XN4VxH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .group-87-eET4qq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .menu-dxBduN {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1920px;
+}
+
+.admin-dashboard-teacher-profile .bg-t937ty {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.admin-dashboard-teacher-profile .shg-logo1-w-t937ty {
+  background-color: transparent;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.admin-dashboard-teacher-profile .group-10-GML0ip {
+  background-color: transparent;
+  height: 57px;
+  position: absolute;
+  right: 43px;
+  top: calc(50.00% - 28px);
+  width: 57px;
+}
+
+.admin-dashboard-teacher-profile .rectangle-15-copy-6-KRyPpT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .clip-SZWbQg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .layer-19-copy-Z3pDCR {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.admin-dashboard-teacher-profile .layer-19-uPh8jy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .rectangle-1473-C61RwL {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 537px;
+  left: 620px;
+  position: absolute;
+  top: 166px;
+  width: 680px;
+}
+
+.admin-dashboard-teacher-profile .lim-teck-whye-C61RwL {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 871px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 203px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.admin-dashboard-teacher-profile .group-3537-C61RwL {
+  background-color: transparent;
+  height: 323px;
+  left: 661px;
+  position: absolute;
+  top: 258px;
+  width: 341px;
+}
+
+.admin-dashboard-teacher-profile .group-205-NaFVsV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .lim-teck-whye-YxRSND {
+  background-color: transparent;
+  height: 21px;
+  left: calc(21.05% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.admin-dashboard-teacher-profile .limteckwhyegmailcom-YxRSND {
+  background-color: transparent;
+  height: 21px;
+  left: calc(28.11% - 44px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.00% - 5px);
+  white-space: nowrap;
+  width: 156px;
+}
+
+.admin-dashboard-teacher-profile .basic-information-YxRSND {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 161px;
+}
+
+.admin-dashboard-teacher-profile .name-YxRSND {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.admin-dashboard-teacher-profile .email-YxRSND {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.00% - 5px);
+  white-space: nowrap;
+  width: 36px;
+}
+
+.admin-dashboard-teacher-profile .singapore-YxRSND {
+  background-color: transparent;
+  bottom: calc(46.52% - 10px);
+  height: 21px;
+  left: calc(25.00% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.admin-dashboard-teacher-profile .north-region-YxRSND {
+  background-color: transparent;
+  bottom: calc(46.52% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.admin-dashboard-teacher-profile .singapore-school-system-YxRSND {
+  background-color: transparent;
+  bottom: calc(37.25% - 8px);
+  height: 21px;
+  left: calc(37.30% - 59px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.admin-dashboard-teacher-profile .school-information-YxRSND {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(39.97% - 12px);
+  white-space: nowrap;
+  width: 177px;
+}
+
+.admin-dashboard-teacher-profile .country-YxRSND {
+  background-color: transparent;
+  bottom: calc(46.52% - 10px);
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.admin-dashboard-teacher-profile .school-YxRSND {
+  background-color: transparent;
+  bottom: calc(37.25% - 8px);
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.admin-dashboard-teacher-profile .state-YxRSND {
+  background-color: transparent;
+  bottom: calc(46.52% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(32.69% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.admin-dashboard-teacher-profile .x4-8-YxRSND {
+  background-color: transparent;
+  bottom: 26px;
+  height: 21px;
+  left: calc(20.13% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.admin-dashboard-teacher-profile .mathematics-science-history-YxRSND {
+  background-color: transparent;
+  bottom: -2px;
+  height: 21px;
+  left: calc(45.57% - 84px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.admin-dashboard-teacher-profile .teacher-information-YxRSND {
+  background-color: transparent;
+  bottom: calc(21.26% - 6px);
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.admin-dashboard-teacher-profile .grades-YxRSND {
+  background-color: transparent;
+  bottom: 26px;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.admin-dashboard-teacher-profile .subjects-YxRSND {
+  background-color: transparent;
+  bottom: -2px;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.admin-dashboard-teacher-profile .group-10-C61RwL {
+  background-color: transparent;
+  height: 144px;
+  left: 1080px;
+  position: absolute;
+  top: 270px;
+  width: 144px;
+}
+
+.admin-dashboard-teacher-profile .rectangle-15-copy-6-CcEnn8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .clip-vUYF29 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .layer-19-copy-axt2f0 {
+  background-color: transparent;
+  height: calc(100.00% + 7px);
+  left: -29px;
+  position: relative;
+  top: 2px;
+  width: calc(100.00% + 59px);
+}
+
+.admin-dashboard-teacher-profile .layer-19-63JSPY {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .signup-btn-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 762px;
+  position: absolute;
+  top: 615px;
+  width: 193px;
+}
+
+.admin-dashboard-teacher-profile .rectangle-1-bSsVyR {
+  background-color: #afafaf;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .decline-bSsVyR {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.admin-dashboard-teacher-profile .signup-btn-VMr6Om {
+  background-color: transparent;
+  height: 48px;
+  left: 965px;
+  position: absolute;
+  top: 615px;
+  width: 193px;
+}
+
+.admin-dashboard-teacher-profile .rectangle-1-EReVaN {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-dashboard-teacher-profile .approve-EReVaN {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 70px;
+}

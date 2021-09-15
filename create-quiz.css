@@ -1,0 +1,308 @@
+/* screen - create-quiz */
+
+.create-quiz {
+  background-color: var(--white);
+  height: 954px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.create-quiz .screenshot2021-06-23-nearpod8-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 933px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1920px;
+}
+
+.create-quiz .x1-C61RwL {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.create-quiz .header-GML0ip {
+  background-color: transparent;
+  bottom: 0px;
+  height: 52px;
+  left: 50px;
+  position: absolute;
+  width: calc(100.00% - 100px);
+}
+
+.create-quiz .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .menu-yPuPNE {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 209px;
+}
+
+.create-quiz .group-3-8a43S6 {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 211px;
+}
+
+.create-quiz .university-XjJ7Hp {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.create-quiz .logo-XjJ7Hp {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.create-quiz .x3-yPuPNE {
+  background-color: transparent;
+  height: 22px;
+  left: 1796px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.create-quiz .signup-btn-yPuPNE {
+  background-color: transparent;
+  height: 48px;
+  left: 1396px;
+  position: absolute;
+  top: 4px;
+  width: 193px;
+}
+
+.create-quiz .rectangle-1-Cmaz2e {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .sign-up-for-free-Cmaz2e {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.create-quiz .x1-GML0ip {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .header-XN4VxH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .group-87-eET4qq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .menu-dxBduN {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.create-quiz .bg-t937ty {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.create-quiz .shg-logo1-w-t937ty {
+  background-color: transparent;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.create-quiz .group-10-dxBduN {
+  background-color: transparent;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.create-quiz .rectangle-15-copy-6-JSx8Cq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .clip-bfSENu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.create-quiz .layer-19-copy-eSAlTB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.create-quiz .layer-19-w3wNqq {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .rectangle-1419-C61RwL {
+  background-color: var(--blueberry);
+  height: 102px;
+  left: 0px;
+  position: absolute;
+  top: 855px;
+  width: 1920px;
+}
+
+.create-quiz .signup-btn-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 1380px;
+  position: absolute;
+  top: 882px;
+  width: 193px;
+}
+
+.create-quiz .rectangle-1-bSsVyR {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .create-bSsVyR {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  cursor: pointer;
+  height: 26px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.create-quiz .signup-btn-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 1172px;
+  position: absolute;
+  top: 882px;
+  width: 193px;
+}
+
+.create-quiz .rectangle-1-EReVaN {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-quiz .cancel-EReVaN {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 55px;
+}

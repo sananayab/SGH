@@ -1,0 +1,518 @@
+/* screen - notifications */
+
+.notifications {
+  background-color: var(--white);
+  height: 1394px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notifications .group-1231-C61RwL {
+  background-color: transparent;
+  height: 1148px;
+  left: 375px;
+  position: absolute;
+  top: 250px;
+  width: 216px;
+}
+
+.notifications .path-31800-iY8vUs {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.notifications .rectangle-1180-iY8vUs {
+  background-color: var(--blueberry);
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: calc(20.94% - 8px);
+  width: calc(100.00% - 1px);
+}
+
+.notifications .profile-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(28.57% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.notifications .advanced-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(32.68% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 198px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.notifications .notifications-iY8vUs {
+  background-color: transparent;
+  height: 21px;
+  left: calc(37.59% - 31px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(21.24% - 4px);
+  white-space: nowrap;
+  width: 83px;
+}
+
+.notifications .payment-details-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(43.47% - 44px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.70% - 5px);
+  white-space: nowrap;
+  width: 101px;
+}
+
+.notifications .path-185-iY8vUs {
+  background-color: transparent;
+  height: 0px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 137px;
+  width: 0px;
+}
+
+.notifications .line-575-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 20.19%;
+  width: 100%;
+}
+
+.notifications .line-577-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 23.68%;
+  width: 100%;
+}
+
+.notifications .line-650-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 27.17%;
+  width: 100%;
+}
+
+.notifications .teacher-iY8vUs {
+  background-color: transparent;
+  height: 23px;
+  left: calc(49.05% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.notifications .signup-btn-iY8vUs {
+  background-color: transparent;
+  height: 42px;
+  left: 47px;
+  position: absolute;
+  top: 64px;
+  width: calc(100.00% - 93px);
+}
+
+.notifications .rectangle-1-dhLH4P {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .upgrade-dhLH4P {
+  background-color: transparent;
+  bottom: calc(34.21% - 8px);
+  height: 23px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.notifications .icbuild24px-iY8vUs {
+  background-color: transparent;
+  height: 17px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 17px;
+}
+
+.notifications .icpayment24px-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(25.18% - 4px);
+  width: 20px;
+}
+
+.notifications .icerror24px-iY8vUs {
+  background-color: transparent;
+  height: 17px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(21.57% - 4px);
+  width: 17px;
+}
+
+.notifications .icperson24px-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 164px;
+  width: 16px;
+}
+
+.notifications .group-1346-C61RwL {
+  background-color: transparent;
+  height: 1148px;
+  left: 592px;
+  position: absolute;
+  top: 250px;
+  width: 940px;
+}
+
+.notifications .rectangle-137-HBzfFe {
+  background-color: var(--hint-of-red);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .notifications-HBzfFe {
+  background-color: transparent;
+  height: 42px;
+  left: calc(49.67% - 92px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.notifications .path-31801-HBzfFe {
+  background-color: transparent;
+  height: 218px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: calc(100.00% - 206px);
+}
+
+.notifications .group-205-HBzfFe {
+  background-color: transparent;
+  height: 65px;
+  left: 139px;
+  position: absolute;
+  top: 157px;
+  width: calc(100.00% - 273px);
+}
+
+.notifications .notifications-xLQgih {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.notifications .manage-your-ema-he-button-below-xLQgih {
+  background-color: transparent;
+  bottom: 1px;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.notifications .signup-btn-HBzfFe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  position: absolute;
+  right: calc(45.79% - 120px);
+  top: calc(23.64% - 11px);
+  width: 263px;
+}
+
+.notifications .rectangle-1-sejZ1d {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .manage-notifications-sejZ1d {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.notifications .x1-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.notifications .header-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .menu-yPuPNE {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.notifications .bg-8a43S6 {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.notifications .shg-logo1-w-8a43S6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.notifications .group-10-yPuPNE {
+  background-color: transparent;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.notifications .rectangle-15-copy-6-J87hxu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .clip-UvR0BK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.notifications .layer-19-copy-aYlxRB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.notifications .layer-19-sbEufX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.notifications .group-1369-C61RwL {
+  background-color: transparent;
+  height: 153px;
+  left: 375px;
+  position: absolute;
+  top: 97px;
+  width: 1157px;
+}
+
+.notifications .group-1454-kSmCYN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .path-31799-c0xxUR {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.notifications .group-10-c0xxUR {
+  background-color: transparent;
+  height: calc(100.00% - 43px);
+  left: 63px;
+  position: absolute;
+  top: 22px;
+  width: 110px;
+}
+
+.notifications .rectangle-15-copy-6-6F3J9I {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .clip-w9tjOP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.notifications .layer-19-copy-1KrGSz {
+  background-color: transparent;
+  height: calc(100.00% + 6px);
+  left: -26px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 46px);
+}
+
+.notifications .layer-19-FV4Kif {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.notifications .lim-teck-whye-c0xxUR {
+  background-color: transparent;
+  bottom: calc(43.70% - 15px);
+  height: 34px;
+  left: calc(21.62% - 37px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 170px;
+}

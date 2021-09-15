@@ -1,0 +1,1010 @@
+/* screen - admin-reports */
+
+.admin-reports {
+  background-color: var(--white);
+  height: 998px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.admin-reports .x1-C61RwL {
+  background-color: transparent;
+  height: 103px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.admin-reports .header-GML0ip {
+  background-color: transparent;
+  bottom: 0px;
+  height: 52px;
+  left: 50px;
+  position: absolute;
+  width: calc(100.00% - 100px);
+}
+
+.admin-reports .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .menu-yPuPNE {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 209px;
+}
+
+.admin-reports .group-3-8a43S6 {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 211px;
+}
+
+.admin-reports .university-XjJ7Hp {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.admin-reports .logo-XjJ7Hp {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.admin-reports .x3-yPuPNE {
+  background-color: transparent;
+  height: 22px;
+  left: 1796px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.admin-reports .signup-btn-yPuPNE {
+  background-color: transparent;
+  height: 48px;
+  left: 1396px;
+  position: absolute;
+  top: 4px;
+  width: 193px;
+}
+
+.admin-reports .rectangle-1-Cmaz2e {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .sign-up-for-free-Cmaz2e {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.admin-reports .x1-GML0ip {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .header-XN4VxH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .group-87-eET4qq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .menu-dxBduN {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.admin-reports .bg-t937ty {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.admin-reports .shg-logo1-w-t937ty {
+  background-color: transparent;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.admin-reports .group-10-dxBduN {
+  background-color: transparent;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.admin-reports .rectangle-15-copy-6-JSx8Cq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .clip-bfSENu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.admin-reports .layer-19-copy-eSAlTB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.admin-reports .layer-19-w3wNqq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.admin-reports .group-1369-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 289px;
+  position: absolute;
+  top: 100px;
+  width: 1631px;
+}
+
+.admin-reports .group-1454-kSmCYN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .path-31795-c0xxUR {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.admin-reports .teacher-re-evaluation-c0xxUR {
+  background-color: transparent;
+  bottom: calc(46.49% - 11px);
+  height: 23px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.admin-reports .group-1777-c0xxUR {
+  background-color: transparent;
+  bottom: calc(49.99% - 18px);
+  height: 37px;
+  left: 224px;
+  position: absolute;
+  width: 757px;
+}
+
+.admin-reports .rectangle-3-Bxvc0s {
+  background-color: var(--concrete);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .search-Bxvc0s {
+  background-color: transparent;
+  bottom: calc(45.18% - 8px);
+  height: 18px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.admin-reports .icsearch24px-c0xxUR {
+  background-color: transparent;
+  bottom: calc(49.99% - 9px);
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(41.12% - 7px);
+  width: 17px;
+}
+
+.admin-reports .group-3528-C61RwL {
+  background-color: transparent;
+  height: 128px;
+  left: 310px;
+  position: absolute;
+  top: 209px;
+  width: 1554px;
+}
+
+.admin-reports .rectangle-1495-9qBdms {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .pic-9qBdms {
+  background-color: transparent;
+  height: calc(100.00% - 27px);
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 146px;
+}
+
+.admin-reports .signup-btn-9qBdms {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 53px;
+  top: calc(50.00% - 24px);
+  width: 262px;
+}
+
+.admin-reports .rectangle-1-PbooKf {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .submit-for-re-evaluation-PbooKf {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-9qBdms {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 201px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-bSpzes {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.98% - 8px);
+  white-space: nowrap;
+  width: 194px;
+}
+
+.admin-reports .slide-12-9qBdms {
+  background-color: transparent;
+  bottom: calc(43.46% - 9px);
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.admin-reports .rectangle-1544-9qBdms {
+  background-color: var(--azure-radiance);
+  height: 4px;
+  left: 124px;
+  position: absolute;
+  top: calc(20.16% - 1px);
+  width: 19px;
+}
+
+.admin-reports .group-3585-C61RwL {
+  background-color: transparent;
+  height: 128px;
+  left: 310px;
+  position: absolute;
+  top: 352px;
+  width: 1554px;
+}
+
+.admin-reports .rectangle-1495-KHRKKT {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .pic-KHRKKT {
+  background-color: transparent;
+  height: calc(100.00% - 27px);
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 146px;
+}
+
+.admin-reports .signup-btn-KHRKKT {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 53px;
+  top: calc(50.00% - 24px);
+  width: 262px;
+}
+
+.admin-reports .rectangle-1-IV4lTm {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .submit-for-re-evaluation-IV4lTm {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-KHRKKT {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 201px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-zHKBqq {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.98% - 8px);
+  white-space: nowrap;
+  width: 194px;
+}
+
+.admin-reports .slide-12-KHRKKT {
+  background-color: transparent;
+  bottom: calc(43.46% - 9px);
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.admin-reports .rectangle-1544-KHRKKT {
+  background-color: var(--azure-radiance);
+  height: 4px;
+  left: 124px;
+  position: absolute;
+  top: calc(20.16% - 1px);
+  width: 19px;
+}
+
+.admin-reports .group-3586-C61RwL {
+  background-color: transparent;
+  height: 128px;
+  left: 310px;
+  position: absolute;
+  top: 495px;
+  width: 1554px;
+}
+
+.admin-reports .rectangle-1495-ktygWg {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .pic-ktygWg {
+  background-color: transparent;
+  height: calc(100.00% - 27px);
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 146px;
+}
+
+.admin-reports .signup-btn-ktygWg {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 53px;
+  top: calc(50.00% - 24px);
+  width: 262px;
+}
+
+.admin-reports .rectangle-1-F1bxcX {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .submit-for-re-evaluation-F1bxcX {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-ktygWg {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 201px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-ox22K1 {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.98% - 8px);
+  white-space: nowrap;
+  width: 194px;
+}
+
+.admin-reports .slide-12-ktygWg {
+  background-color: transparent;
+  bottom: calc(43.46% - 9px);
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.admin-reports .rectangle-1544-ktygWg {
+  background-color: var(--azure-radiance);
+  height: 4px;
+  left: 124px;
+  position: absolute;
+  top: calc(20.16% - 1px);
+  width: 19px;
+}
+
+.admin-reports .group-3587-C61RwL {
+  background-color: transparent;
+  height: 128px;
+  left: 310px;
+  position: absolute;
+  top: 638px;
+  width: 1554px;
+}
+
+.admin-reports .rectangle-1495-pZl0TX {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .pic-pZl0TX {
+  background-color: transparent;
+  height: calc(100.00% - 27px);
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 146px;
+}
+
+.admin-reports .signup-btn-pZl0TX {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 53px;
+  top: calc(50.00% - 24px);
+  width: 262px;
+}
+
+.admin-reports .rectangle-1-jkY7BS {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .submit-for-re-evaluation-jkY7BS {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-pZl0TX {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 201px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-XsnTP6 {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.98% - 8px);
+  white-space: nowrap;
+  width: 194px;
+}
+
+.admin-reports .slide-12-pZl0TX {
+  background-color: transparent;
+  bottom: calc(43.46% - 9px);
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.admin-reports .rectangle-1544-pZl0TX {
+  background-color: var(--azure-radiance);
+  height: 4px;
+  left: 124px;
+  position: absolute;
+  top: calc(20.16% - 1px);
+  width: 19px;
+}
+
+.admin-reports .group-3588-C61RwL {
+  background-color: transparent;
+  height: 128px;
+  left: 310px;
+  position: absolute;
+  top: 781px;
+  width: 1554px;
+}
+
+.admin-reports .rectangle-1495-652jrz {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .pic-652jrz {
+  background-color: transparent;
+  height: calc(100.00% - 27px);
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 146px;
+}
+
+.admin-reports .signup-btn-652jrz {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 53px;
+  top: calc(50.00% - 24px);
+  width: 262px;
+}
+
+.admin-reports .rectangle-1-J8hTl2 {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.admin-reports .submit-for-re-evaluation-J8hTl2 {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-652jrz {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 201px;
+}
+
+.admin-reports .tips-for-data-d-ven-instruction-VSRLjj {
+  background-color: transparent;
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.98% - 8px);
+  white-space: nowrap;
+  width: 194px;
+}
+
+.admin-reports .slide-12-652jrz {
+  background-color: transparent;
+  bottom: calc(43.46% - 9px);
+  height: 21px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.admin-reports .rectangle-1544-652jrz {
+  background-color: var(--azure-radiance);
+  height: 4px;
+  left: 124px;
+  position: absolute;
+  top: calc(20.16% - 1px);
+  width: 19px;
+}
+
+.admin-reports .group-1231-C61RwL {
+  background-color: transparent;
+  height: 902px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 289px;
+}
+
+.admin-reports .path-31796-iY8vUs {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 17px);
+}
+
+.admin-reports .rectangle-1180-iY8vUs {
+  background-color: var(--blueberry);
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: 138px;
+  width: calc(100.00% - 2px);
+}
+
+.admin-reports .sign-up-approvals-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(27.56% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.admin-reports .subscription-plans-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.admin-reports .quick-links-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.admin-reports .path-185-iY8vUs {
+  background-color: transparent;
+  height: 0px;
+  object-fit: cover;
+  position: absolute;
+  right: 27.90%;
+  top: 72px;
+  width: 0px;
+}
+
+.admin-reports .update-subscriptions-iY8vUs {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: calc(30.24% - 41px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.admin-reports .teacher-re-evaluation-iY8vUs {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.04% - 43px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 79px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.admin-reports .line-648-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 175px;
+  width: calc(100.00% - 1px);
+}
+
+.admin-reports .line-647-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: calc(100.00% - 1px);
+}
+
+.admin-reports .icassessment24px-iY8vUs {
+  background-color: transparent;
+  height: 18px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 18px;
+}
+
+.admin-reports .icgroup24px-iY8vUs {
+  background-color: transparent;
+  height: 14px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 22px;
+}
+
+.admin-reports .icstyle24px-iY8vUs {
+  background-color: transparent;
+  height: 19px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 148px;
+  width: 21px;
+}

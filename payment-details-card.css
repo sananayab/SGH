@@ -1,0 +1,323 @@
+/* screen - payment-details-card */
+
+.payment-details-card {
+  background-color: var(--white);
+  height: 1011px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.payment-details-card .x1-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.payment-details-card .header-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details-card .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details-card .menu-yPuPNE {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.payment-details-card .bg-8a43S6 {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.payment-details-card .shg-logo1-w-8a43S6 {
+  background-color: transparent;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.payment-details-card .group-10-yPuPNE {
+  background-color: transparent;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.payment-details-card .rectangle-15-copy-6-J87hxu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details-card .clip-UvR0BK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.payment-details-card .layer-19-copy-aYlxRB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.payment-details-card .layer-19-sbEufX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details-card .group-3520-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 374px;
+  left: 676px;
+  position: absolute;
+  top: 166px;
+  width: 568px;
+}
+
+.payment-details-card .rectangle-1473-6N7Kof {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details-card .group-3519-6N7Kof {
+  background-color: transparent;
+  bottom: calc(40.79% - 91px);
+  height: 222px;
+  left: 49px;
+  position: absolute;
+  width: calc(100.00% - 91px);
+}
+
+.payment-details-card .account-pXNmO3 {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.payment-details-card .payment-methods-pXNmO3 {
+  background-color: transparent;
+  bottom: calc(37.05% - 11px);
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 167px;
+}
+
+.payment-details-card .shg-silveryou-a-or-only-10month-pXNmO3 {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(25.16% - 16px);
+  width: calc(100.00% - 116px);
+}
+
+.payment-details-card .span0-xxxOVL {
+}
+
+.payment-details-card .span1-xxxOVL {
+  color: var(--dove-gray);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.payment-details-card .span2-xxxOVL {
+}
+
+.payment-details-card .span3-xxxOVL {
+  text-decoration: underline;
+}
+
+.payment-details-card .here-are-the-pa-our-shg-account-pXNmO3 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+
+.payment-details-card .span0-P54zMJ {
+}
+
+.payment-details-card .span1-P54zMJ {
+  color: var(--dove-gray);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.payment-details-card .span2-P54zMJ {
+}
+
+.payment-details-card .account-preferences-6N7Kof {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: calc(48.02% - 115px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.payment-details-card .rectangle-127-6N7Kof {
+  background-color: transparent;
+  bottom: 41px;
+  height: 42px;
+  left: 41px;
+  position: absolute;
+  width: calc(100.00% - 82px);
+}
+
+.payment-details-card .cardbg-6N7Kof {
+  background-color: transparent;
+  bottom: 51px;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.98% - 9px);
+  width: 33px;
+}
+
+.payment-details-card .mastercard-color-6N7Kof {
+  background-color: transparent;
+  bottom: 51px;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.82% - 6px);
+  width: 32px;
+}
+
+.payment-details-card .americanexpress-color-6N7Kof {
+  background-color: transparent;
+  bottom: 51px;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 51px;
+  width: 34px;
+}
+
+.payment-details-card .visa-color-6N7Kof {
+  background-color: transparent;
+  bottom: 59px;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(26.54% - 5px);
+  width: 20px;
+}
+
+.payment-details-card .rectangle-1474-6N7Kof {
+  background-color: transparent;
+  bottom: 47px;
+  height: 30px;
+  left: 54px;
+  position: absolute;
+  width: 94px;
+}
+
+.payment-details-card .add-card-6N7Kof {
+  background-color: transparent;
+  bottom: 52px;
+  height: 16px;
+  left: calc(16.44% - 7px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.payment-details-card .icclose24px-6N7Kof {
+  background-color: transparent;
+  bottom: 57px;
+  height: 10px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  width: 10px;
+}

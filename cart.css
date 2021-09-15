@@ -1,0 +1,620 @@
+/* screen - cart */
+
+.cart {
+  background-color: var(--white);
+  height: 1011px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.cart .x1-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.cart .header-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.cart .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.cart .menu-yPuPNE {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.cart .bg-8a43S6 {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.cart .shg-logo1-w-8a43S6 {
+  background-color: transparent;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.cart .group-10-yPuPNE {
+  background-color: transparent;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.cart .rectangle-15-copy-6-J87hxu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.cart .clip-UvR0BK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.cart .layer-19-copy-aYlxRB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.cart .layer-19-sbEufX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.cart .path-296-C61RwL {
+  background-color: transparent;
+  height: 519px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 179px;
+  width: 374px;
+}
+
+.cart .group-1519-C61RwL {
+  background-color: transparent;
+  height: 482px;
+  left: 545px;
+  position: absolute;
+  top: 198px;
+  width: 764px;
+}
+
+.cart .lorem-ipsum-dolor-kYuSyP {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(28.43% - 36px);
+  text-align: left;
+  top: 56px;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.cart .lorem-ipsum-dolor-xmjxSy {
+  background-color: transparent;
+  bottom: calc(34.67% - 7px);
+  height: 21px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.cart .lorem-ipsum-dolor-DxAquO {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(28.43% - 36px);
+  text-align: left;
+  top: calc(20.26% - 4px);
+  white-space: nowrap;
+  width: 125px;
+}
+
+.cart .lorem-ipsum-dolor-3XmiFt {
+  background-color: transparent;
+  bottom: calc(26.65% - 6px);
+  height: 21px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.cart .lorem-ipsum-dolor-wmJ8ne {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(28.43% - 36px);
+  text-align: left;
+  top: calc(28.28% - 6px);
+  white-space: nowrap;
+  width: 125px;
+}
+
+.cart .lorem-ipsum-dolor-gDedpV {
+  background-color: transparent;
+  bottom: calc(18.63% - 4px);
+  height: 21px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.cart .lorem-ipsum-dolor-Z0uEMx {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(28.43% - 36px);
+  text-align: left;
+  top: calc(36.29% - 8px);
+  white-space: nowrap;
+  width: 125px;
+}
+
+.cart .lorem-ipsum-dolor-n1sVTH {
+  background-color: transparent;
+  bottom: 49px;
+  height: 21px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.cart .total-kYuSyP {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(37.78% - 14px);
+  text-align: left;
+  top: calc(47.23% - 11px);
+  white-space: nowrap;
+  width: 37px;
+}
+
+.cart .total-xmjxSy {
+  background-color: transparent;
+  bottom: -2px;
+  height: 23px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.cart .x1000-kYuSyP {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 8px;
+  text-align: left;
+  top: calc(47.23% - 11px);
+  white-space: nowrap;
+  width: 44px;
+}
+
+.cart .x1000-xmjxSy {
+  background-color: transparent;
+  bottom: -2px;
+  height: 23px;
+  left: calc(36.69% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.cart .x250-kYuSyP {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 10px;
+  text-align: left;
+  top: 56px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.cart .x250-xmjxSy {
+  background-color: transparent;
+  bottom: calc(34.67% - 7px);
+  height: 21px;
+  left: calc(37.51% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.cart .x250-DxAquO {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 10px;
+  text-align: left;
+  top: calc(20.26% - 4px);
+  white-space: nowrap;
+  width: 33px;
+}
+
+.cart .x250-3XmiFt {
+  background-color: transparent;
+  bottom: calc(26.65% - 6px);
+  height: 21px;
+  left: calc(37.51% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.cart .x250-wmJ8ne {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 10px;
+  text-align: left;
+  top: calc(28.28% - 6px);
+  white-space: nowrap;
+  width: 33px;
+}
+
+.cart .x250-gDedpV {
+  background-color: transparent;
+  bottom: calc(18.63% - 4px);
+  height: 21px;
+  left: calc(37.51% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.cart .x250-Z0uEMx {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 10px;
+  text-align: left;
+  top: calc(36.29% - 8px);
+  white-space: nowrap;
+  width: 33px;
+}
+
+.cart .x250-n1sVTH {
+  background-color: transparent;
+  bottom: 49px;
+  height: 21px;
+  left: calc(37.51% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.cart .line-611-kYuSyP {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 41.64%;
+  width: 311px;
+}
+
+.cart .line-651-kYuSyP {
+  background-color: transparent;
+  bottom: 36px;
+  height: 1px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  width: 311px;
+}
+
+.cart .group-1517-kYuSyP {
+  background-color: transparent;
+  height: 16px;
+  left: 2px;
+  position: absolute;
+  top: calc(31.73% - 5px);
+  width: 217px;
+}
+
+.cart .please-provide-ing-information-GX0Sqh {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.cart .payment-methods-kYuSyP {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 167px;
+}
+
+.cart .billing-address-kYuSyP {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(26.35% - 8px);
+  white-space: nowrap;
+  width: 137px;
+}
+
+.cart .shopping-cart-kYuSyP {
+  background-color: transparent;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(28.31% - 38px);
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.cart .order-summary-kYuSyP {
+  background-color: transparent;
+  bottom: calc(45.20% - 13px);
+  height: 29px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.cart .rectangle-1488-kYuSyP {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: 57px;
+  width: 387px;
+}
+
+.cart .rectangle-1490-kYuSyP {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: calc(40.23% - 20px);
+  width: 387px;
+}
+
+.cart .cardbg-kYuSyP {
+  background-color: transparent;
+  height: 22px;
+  left: calc(35.04% - 12px);
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 33px;
+}
+
+.cart .mastercard-color-kYuSyP {
+  background-color: transparent;
+  height: 22px;
+  left: calc(41.08% - 13px);
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 32px;
+}
+
+.cart .americanexpress-color-kYuSyP {
+  background-color: transparent;
+  height: 22px;
+  left: calc(47.05% - 16px);
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 34px;
+}
+
+.cart .visa-color-kYuSyP {
+  background-color: transparent;
+  height: 7px;
+  left: calc(35.30% - 7px);
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 20px;
+}
+
+.cart .rectangle-1489-kYuSyP {
+  background-color: transparent;
+  height: 30px;
+  left: 13px;
+  position: absolute;
+  top: 63px;
+  width: 94px;
+}
+
+.cart .rectangle-1491-kYuSyP {
+  background-color: transparent;
+  height: 30px;
+  left: 13px;
+  position: absolute;
+  top: calc(40.66% - 12px);
+  width: 360px;
+}
+
+.cart .add-card-kYuSyP {
+  background-color: transparent;
+  height: 16px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.cart .country-kYuSyP {
+  background-color: transparent;
+  height: 16px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(41.37% - 7px);
+  white-space: nowrap;
+  width: 39px;
+}
+
+.cart .icclose24px-kYuSyP {
+  background-color: transparent;
+  height: 10px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 10px;
+}
+
+.cart .icexpandmore24px-kYuSyP {
+  background-color: transparent;
+  height: 5px;
+  left: calc(46.20% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(41.22% - 2px);
+  width: 7px;
+}
+
+.cart .all-transaction-d-and-encrypted-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 547px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 225px;
+  white-space: nowrap;
+  width: auto;
+}

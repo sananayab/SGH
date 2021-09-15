@@ -1,0 +1,517 @@
+/* screen - payment-details */
+
+.payment-details {
+  background-color: var(--white);
+  height: 1073px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.payment-details .group-1231-C61RwL {
+  background-color: transparent;
+  height: 824px;
+  left: 375px;
+  position: absolute;
+  top: 250px;
+  width: 216px;
+}
+
+.payment-details .path-31800-iY8vUs {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.payment-details .rectangle-1180-iY8vUs {
+  background-color: var(--blueberry);
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: calc(34.84% - 14px);
+  width: calc(100.00% - 1px);
+}
+
+.payment-details .profile-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(28.57% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(19.73% - 4px);
+  white-space: nowrap;
+  width: 41px;
+}
+
+.payment-details .advanced-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(32.68% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.71% - 5px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.payment-details .notifications-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(36.76% - 29px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.82% - 6px);
+  white-space: nowrap;
+  width: 80px;
+}
+
+.payment-details .payment-details-iY8vUs {
+  background-color: transparent;
+  height: 21px;
+  left: calc(44.63% - 46px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(34.68% - 7px);
+  white-space: nowrap;
+  width: 104px;
+}
+
+.payment-details .path-185-iY8vUs {
+  background-color: transparent;
+  height: 0px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 137px;
+  width: 0px;
+}
+
+.payment-details .line-575-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 28.15%;
+  width: 100%;
+}
+
+.payment-details .line-577-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 33.01%;
+  width: 100%;
+}
+
+.payment-details .line-650-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 37.87%;
+  width: 100%;
+}
+
+.payment-details .teacher-iY8vUs {
+  background-color: transparent;
+  height: 23px;
+  left: calc(48.42% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.payment-details .signup-btn-iY8vUs {
+  background-color: transparent;
+  height: 42px;
+  left: 47px;
+  position: absolute;
+  top: 64px;
+  width: calc(100.00% - 93px);
+}
+
+.payment-details .rectangle-1-dhLH4P {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .upgrade-dhLH4P {
+  background-color: transparent;
+  bottom: calc(34.21% - 8px);
+  height: 23px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.payment-details .icbuild24px-iY8vUs {
+  background-color: transparent;
+  height: 17px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(25.53% - 4px);
+  width: 17px;
+}
+
+.payment-details .icpayment24px-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(35.29% - 6px);
+  width: 20px;
+}
+
+.payment-details .icerror24px-iY8vUs {
+  background-color: transparent;
+  height: 17px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(30.25% - 5px);
+  width: 17px;
+}
+
+.payment-details .icperson24px-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(20.31% - 3px);
+  width: 16px;
+}
+
+.payment-details .group-1346-C61RwL {
+  background-color: transparent;
+  height: 824px;
+  left: 592px;
+  position: absolute;
+  top: 250px;
+  width: 940px;
+}
+
+.payment-details .rectangle-137-HBzfFe {
+  background-color: var(--hint-of-red);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .path-31801-HBzfFe {
+  background-color: transparent;
+  height: 218px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: calc(100.00% - 206px);
+}
+
+.payment-details .group-205-HBzfFe {
+  background-color: transparent;
+  height: 65px;
+  left: 139px;
+  position: absolute;
+  top: calc(20.69% - 13px);
+  width: calc(100.00% - 273px);
+}
+
+.payment-details .payment-details-xLQgih {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.payment-details .manage-your-sub-payment-methods-xLQgih {
+  background-color: transparent;
+  bottom: 1px;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.payment-details .payment-details-HBzfFe {
+  background-color: transparent;
+  height: 42px;
+  left: calc(48.87% - 112px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: 230px;
+}
+
+.payment-details .signup-btn-HBzfFe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  position: absolute;
+  right: calc(45.79% - 120px);
+  top: calc(33.51% - 16px);
+  width: 263px;
+}
+
+.payment-details .rectangle-1-sejZ1d {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .manage-payment-details-sejZ1d {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.payment-details .x1-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.payment-details .header-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .menu-yPuPNE {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.payment-details .bg-8a43S6 {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.payment-details .shg-logo1-w-8a43S6 {
+  background-color: transparent;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.payment-details .group-10-yPuPNE {
+  background-color: transparent;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.payment-details .rectangle-15-copy-6-J87hxu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .clip-UvR0BK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.payment-details .layer-19-copy-aYlxRB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.payment-details .layer-19-sbEufX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.payment-details .group-1369-C61RwL {
+  background-color: transparent;
+  height: 153px;
+  left: 375px;
+  position: absolute;
+  top: 97px;
+  width: 1157px;
+}
+
+.payment-details .group-1454-kSmCYN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .path-31799-c0xxUR {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.payment-details .group-10-c0xxUR {
+  background-color: transparent;
+  height: calc(100.00% - 43px);
+  left: 63px;
+  position: absolute;
+  top: 22px;
+  width: 110px;
+}
+
+.payment-details .rectangle-15-copy-6-6F3J9I {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .clip-w9tjOP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.payment-details .layer-19-copy-1KrGSz {
+  background-color: transparent;
+  height: calc(100.00% + 6px);
+  left: -26px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 46px);
+}
+
+.payment-details .layer-19-FV4Kif {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.payment-details .lim-teck-whye-c0xxUR {
+  background-color: transparent;
+  bottom: calc(43.70% - 15px);
+  height: 34px;
+  left: calc(21.62% - 37px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 170px;
+}

@@ -1,0 +1,6884 @@
+/* screen - teacher-dashboard */
+
+.teacher-dashboard {
+  background-color: var(--white);
+  height: 998px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.teacher-dashboard .x1-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.teacher-dashboard .header-GML0ip {
+  background-color: transparent;
+  bottom: 0px;
+  height: 49px;
+  left: 50px;
+  position: absolute;
+  width: calc(100.00% - 100px);
+}
+
+.teacher-dashboard .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .menu-yPuPNE {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 209px;
+}
+
+.teacher-dashboard .group-3-8a43S6 {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 211px;
+}
+
+.teacher-dashboard .university-XjJ7Hp {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.teacher-dashboard .logo-XjJ7Hp {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.teacher-dashboard .x3-yPuPNE {
+  background-color: transparent;
+  height: 22px;
+  left: 1796px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.teacher-dashboard .x1-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .header-XN4VxH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-87-eET4qq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .menu-dxBduN {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.teacher-dashboard .bg-t937ty {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.teacher-dashboard .shg-logo1-w-t937ty {
+  background-color: transparent;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.teacher-dashboard .component-26-1-dxBduN {
+  background-color: transparent;
+  height: 48px;
+  left: 1588px;
+  position: absolute;
+  top: 26px;
+  width: 193px;
+}
+
+.teacher-dashboard .rectangle-1508-h3PQOh {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .quick-launch-h3PQOh {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.teacher-dashboard .component-27-1-dxBduN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 1414px;
+  position: absolute;
+  top: 26px;
+  width: 159px;
+}
+
+.teacher-dashboard .rectangle-1509-gl3fMZ {
+  background-color: transparent;
+  border-radius: 20px;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .create-gl3fMZ {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.teacher-dashboard .group-10-dxBduN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.teacher-dashboard .rectangle-15-copy-6-JSx8Cq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .clip-bfSENu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .layer-19-copy-eSAlTB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.teacher-dashboard .layer-19-w3wNqq {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1369-C61RwL {
+  background-color: transparent;
+  height: 164px;
+  left: 289px;
+  position: absolute;
+  top: 100px;
+  width: 1631px;
+}
+
+.teacher-dashboard .group-1454-kSmCYN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-31795-c0xxUR {
+  background-color: transparent;
+  height: 98px;
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.teacher-dashboard .my-lessons-c0xxUR {
+  background-color: transparent;
+  height: 23px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(21.58% - 5px);
+  white-space: nowrap;
+  width: 88px;
+}
+
+.teacher-dashboard .group-3506-c0xxUR {
+  background-color: transparent;
+  bottom: 0px;
+  height: 37px;
+  position: absolute;
+  right: 45px;
+  width: 123px;
+}
+
+.teacher-dashboard .rectangle-3-q0z5Gj {
+  background-color: transparent;
+  border: 1px solid var(--gravel);
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.teacher-dashboard .sort-by-q0z5Gj {
+  background-color: transparent;
+  bottom: calc(35.25% - 7px);
+  height: 21px;
+  left: calc(34.04% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.teacher-dashboard .icimportexport24px-q0z5Gj {
+  background-color: transparent;
+  height: 18px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(23.45% - 3px);
+  top: calc(49.44% - 9px);
+  width: 14px;
+}
+
+.teacher-dashboard .group-3507-c0xxUR {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 37px;
+  left: 19px;
+  position: absolute;
+  width: 123px;
+}
+
+.teacher-dashboard .rectangle-3-y1K28J {
+  background-color: var(--blueberry);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .create-y1K28J {
+  background-color: transparent;
+  bottom: calc(33.17% - 8px);
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: 23px;
+  left: calc(36.97% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.teacher-dashboard .icexpandmore24px-y1K28J {
+  background-color: transparent;
+  bottom: calc(49.99% - 4px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(24.67% - 3px);
+  width: 12px;
+}
+
+.teacher-dashboard .group-3508-c0xxUR {
+  background-color: transparent;
+  bottom: 0px;
+  height: 37px;
+  left: 164px;
+  position: absolute;
+  width: 123px;
+}
+
+.teacher-dashboard .rectangle-3-DttiA2 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.teacher-dashboard .folder-DttiA2 {
+  background-color: transparent;
+  bottom: calc(33.17% - 8px);
+  color: var(--blueberry);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(39.45% - 19px);
+  text-align: left;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.teacher-dashboard .icclose24px-DttiA2 {
+  background-color: transparent;
+  bottom: calc(49.99% - 7px);
+  height: 14px;
+  left: calc(26.35% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.teacher-dashboard .group-1777-c0xxUR {
+  background-color: transparent;
+  height: 37px;
+  left: 147px;
+  position: absolute;
+  top: 22px;
+  width: 757px;
+}
+
+.teacher-dashboard .rectangle-3-Bxvc0s {
+  background-color: var(--concrete);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .search-lessons-in-your-library-Bxvc0s {
+  background-color: transparent;
+  bottom: calc(45.18% - 8px);
+  height: 18px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.teacher-dashboard .icsearch24px-c0xxUR {
+  background-color: transparent;
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.89% - 8px);
+  top: calc(21.28% - 4px);
+  width: 17px;
+}
+
+.teacher-dashboard .group-1231-C61RwL {
+  background-color: transparent;
+  height: 902px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 289px;
+}
+
+.teacher-dashboard .path-31796-iY8vUs {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 17px);
+}
+
+.teacher-dashboard .rectangle-1180-iY8vUs {
+  background-color: var(--blueberry);
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: 87px;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .my-lessons-iY8vUs {
+  background-color: transparent;
+  height: 21px;
+  left: calc(21.89% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 93px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.teacher-dashboard .shg-content-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(19.50% - 3px);
+  white-space: nowrap;
+  width: 70px;
+}
+
+.teacher-dashboard .my-matrerials-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.teacher-dashboard .join-a-lesson-iY8vUs {
+  background-color: transparent;
+  height: 21px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.teacher-dashboard .resources-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(26.61% - 4px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.teacher-dashboard .path-185-iY8vUs {
+  background-color: transparent;
+  height: 0px;
+  object-fit: cover;
+  position: absolute;
+  right: 27.90%;
+  top: 127px;
+  width: 0px;
+}
+
+.teacher-dashboard .shg-library-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(21.89% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(30.23% - 6px);
+  white-space: nowrap;
+  width: 75px;
+}
+
+.teacher-dashboard .teacher-resources-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(26.93% - 31px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.57% - 5px);
+  white-space: nowrap;
+  width: 115px;
+}
+
+.teacher-dashboard .reports-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(19.51% - 10px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 134px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.teacher-dashboard .line-585-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 32.91%;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .line-648-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 25.58%;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .line-647-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 167px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .line-649-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .enter-code-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  position: absolute;
+  right: 18px;
+  top: 12px;
+  width: 145px;
+}
+
+.teacher-dashboard .rectangle-3-7RT6bv {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .enter-code-7RT6bv {
+  background-color: transparent;
+  bottom: calc(38.89% - 7px);
+  color: #bbbbbb;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  left: calc(19.51% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.teacher-dashboard .icassessment24px-iY8vUs {
+  background-color: transparent;
+  height: 18px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 18px;
+}
+
+.teacher-dashboard .ichome24px-iY8vUs {
+  background-color: transparent;
+  height: 17px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 20px;
+}
+
+.teacher-dashboard .icsearch24px-iY8vUs {
+  background-color: transparent;
+  height: 17px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(23.06% - 4px);
+  width: 17px;
+}
+
+.teacher-dashboard .icplaycircleoutline24px-iY8vUs {
+  background-color: transparent;
+  height: 20px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(30.50% - 6px);
+  width: 20px;
+}
+
+.teacher-dashboard .rectangle-1414-C61RwL {
+  background-color: var(--concrete);
+  height: 373px;
+  left: 287px;
+  position: absolute;
+  top: 281px;
+  width: 1633px;
+}
+
+.teacher-dashboard .group-3522-C61RwL {
+  background-color: transparent;
+  height: 261px;
+  left: 317px;
+  position: absolute;
+  top: 358px;
+  width: 261px;
+}
+
+.teacher-dashboard .path-31797-5xLHso {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1543-5xLHso {
+  background-color: transparent;
+  height: 118px;
+  left: 26px;
+  position: absolute;
+  top: calc(28.67% - 34px);
+  width: calc(100.00% - 52px);
+}
+
+.teacher-dashboard .path-29108-43Vrfk {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 10px);
+}
+
+.teacher-dashboard .path-29109-43Vrfk {
+  background-color: transparent;
+  bottom: calc(31.99% - 8px);
+  height: 24px;
+  left: calc(29.99% - 12px);
+  object-fit: cover;
+  position: absolute;
+  width: 39px;
+}
+
+.teacher-dashboard .path-29110-43Vrfk {
+  background-color: transparent;
+  height: 34px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(46.48% - 13px);
+  top: calc(23.36% - 8px);
+  width: 27px;
+}
+
+.teacher-dashboard .path-29111-43Vrfk {
+  background-color: transparent;
+  bottom: 9px;
+  height: 46px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(30.16% - 11px);
+  width: 38px;
+}
+
+.teacher-dashboard .rectangle-651-43Vrfk {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29112-43Vrfk {
+  background-color: transparent;
+  bottom: 16px;
+  height: 64px;
+  left: calc(50.00% - 39px);
+  object-fit: cover;
+  position: absolute;
+  width: 78px;
+}
+
+.teacher-dashboard .path-29113-43Vrfk {
+  background-color: transparent;
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: 23px;
+  top: 12px;
+  width: 47px;
+}
+
+.teacher-dashboard .path-29114-43Vrfk {
+  background-color: transparent;
+  height: 29px;
+  left: calc(20.54% - 7px);
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 35px;
+}
+
+.teacher-dashboard .group-1516-43Vrfk {
+  background-color: transparent;
+  height: 42px;
+  left: calc(41.71% - 13px);
+  position: absolute;
+  top: 11px;
+  width: 32px;
+}
+
+.teacher-dashboard .path-29115-i8px86 {
+  background-color: transparent;
+  bottom: calc(38.42% - 1px);
+  height: 3px;
+  left: calc(37.13% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.teacher-dashboard .group-1513-i8px86 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1515-i8px86 {
+  background-color: transparent;
+  height: 7px;
+  left: calc(44.69% - 7px);
+  position: absolute;
+  top: calc(37.84% - 3px);
+  width: 15px;
+}
+
+.teacher-dashboard .group-1514-AyXQcH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29136-OHoGu4 {
+  background-color: transparent;
+  height: 100%;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 3px);
+}
+
+.teacher-dashboard .path-29137-OHoGu4 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.teacher-dashboard .path-29138-AyXQcH {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 36.50%;
+  top: 50.00%;
+  width: 1px;
+}
+
+.teacher-dashboard .group-1520-43Vrfk {
+  background-color: transparent;
+  bottom: 1px;
+  height: 76px;
+  left: 18px;
+  position: absolute;
+  width: 42px;
+}
+
+.teacher-dashboard .man-9iTxxu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29139-pGrxS1 {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: calc(21.16% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .group-1517-pGrxS1 {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: 0px;
+  top: calc(19.97% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-29140-lZvA3x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-29141-lZvA3x {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-29142-pGrxS1 {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: calc(21.36% - 3px);
+  width: 19px;
+}
+
+.teacher-dashboard .group-1518-pGrxS1 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 42px;
+  left: 5px;
+  position: absolute;
+  width: 23px;
+}
+
+.teacher-dashboard .path-29143-NtlAKy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .path-29144-NtlAKy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 7px;
+}
+
+.teacher-dashboard .path-29145-NtlAKy {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 10px;
+}
+
+.teacher-dashboard .path-29146-NtlAKy {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 10px;
+}
+
+.teacher-dashboard .path-29147-NtlAKy {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 4px);
+}
+
+.teacher-dashboard .path-29148-pGrxS1 {
+  background-color: transparent;
+  height: 7px;
+  left: calc(47.81% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 7px;
+}
+
+.teacher-dashboard .path-29149-pGrxS1 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.05% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-29150-pGrxS1 {
+  background-color: transparent;
+  height: 7px;
+  left: calc(49.91% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-29151-pGrxS1 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(49.64% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 13px;
+}
+
+.teacher-dashboard .path-29152-pGrxS1 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(38.21% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(30.63% - 5px);
+  width: 4px;
+}
+
+.teacher-dashboard .group-1519-pGrxS1 {
+  background-color: transparent;
+  bottom: calc(43.63% - 5px);
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: 16px;
+}
+
+.teacher-dashboard .path-29153-624j1f {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-29154-624j1f {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-29155-pGrxS1 {
+  background-color: transparent;
+  height: 5px;
+  left: calc(19.11% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.98% - 2px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-29156-pGrxS1 {
+  background-color: transparent;
+  height: 23px;
+  left: calc(27.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 12px;
+}
+
+.teacher-dashboard .path-29157-pGrxS1 {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.37% - 4px);
+  top: 1px;
+  width: 8px;
+}
+
+.teacher-dashboard .path-29158-pGrxS1 {
+  background-color: transparent;
+  height: 2px;
+  left: 23.09%;
+  object-fit: cover;
+  position: absolute;
+  top: calc(47.06% - 1px);
+  width: 1px;
+}
+
+.teacher-dashboard .group-1527-43Vrfk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 76px;
+  position: absolute;
+  right: 29px;
+  width: 31px;
+}
+
+.teacher-dashboard .group-1526-xGVXJJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+
+.teacher-dashboard .group-1525-QaG1n4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1524-RhAjDO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29159-ZSeNns {
+  background-color: transparent;
+  height: 2px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 25.75%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-29160-ZSeNns {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.29% - 3px);
+  top: 1px;
+  width: 8px;
+}
+
+.teacher-dashboard .path-29161-ZSeNns {
+  background-color: transparent;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(23.45% - 3px);
+  width: 10px;
+}
+
+.teacher-dashboard .path-29162-ZSeNns {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(24.77% - 1px);
+  top: 0px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-29163-ZSeNns {
+  background-color: transparent;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(36.17% - 5px);
+  top: 10px;
+  width: 13px;
+}
+
+.teacher-dashboard .path-29164-ZSeNns {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.81% - 1px);
+  top: 10px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-29165-ZSeNns {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.12% - 3px);
+  top: 3px;
+  width: 7px;
+}
+
+.teacher-dashboard .path-29166-ZSeNns {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.73% - 3px);
+  top: 4px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-29167-ZSeNns {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(41.04% - 2px);
+  top: 3px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-29168-ZSeNns {
+  background-color: transparent;
+  height: 4px;
+  left: calc(43.74% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-29169-ZSeNns {
+  background-color: transparent;
+  bottom: 1px;
+  height: 40px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(46.72% - 5px);
+  width: 10px;
+}
+
+.teacher-dashboard .path-29170-ZSeNns {
+  background-color: transparent;
+  height: 25px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: calc(26.66% - 7px);
+  width: 10px;
+}
+
+.teacher-dashboard .path-29171-ZSeNns {
+  background-color: transparent;
+  bottom: 1px;
+  height: 42px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.86% - 2px);
+  width: 10px;
+}
+
+.teacher-dashboard .path-29172-ZSeNns {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(46.40% - 1px);
+  top: 3px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-29173-ZSeNns {
+  background-color: transparent;
+  height: 25px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: calc(26.98% - 7px);
+  width: 17px;
+}
+
+.teacher-dashboard .path-29174-ZSeNns {
+  background-color: transparent;
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(25.04% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .group-1521-ZSeNns {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: calc(21.02% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .rectangle-652-RmXnJZ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29175-RmXnJZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29176-ZSeNns {
+  background-color: transparent;
+  bottom: 1px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(20.54% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-29177-ZSeNns {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(39.83% - 2px);
+  width: 4px;
+}
+
+.teacher-dashboard .group-1522-ZSeNns {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  left: calc(48.81% - 4px);
+  position: absolute;
+  width: 7px;
+}
+
+.teacher-dashboard .path-29178-wx7axa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29179-wx7axa {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-29180-wx7axa {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1523-ZSeNns {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(27.77% - 2px);
+  width: 7px;
+}
+
+.teacher-dashboard .path-29181-RZgJyB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29182-RZgJyB {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-29183-RZgJyB {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .path-29184-ZSeNns {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(20.58% - 1px);
+  top: calc(36.28% - 5px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-29185-ZSeNns {
+  background-color: transparent;
+  height: 9px;
+  left: calc(30.29% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(21.34% - 2px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-29186-ZSeNns {
+  background-color: transparent;
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(23.23% - 1px);
+  width: 1px;
+}
+
+.teacher-dashboard .path-29187-ZSeNns {
+  background-color: transparent;
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(22.42% - 1px);
+  width: 1px;
+}
+
+.teacher-dashboard .path-29188-QaG1n4 {
+  background-color: transparent;
+  height: 1px;
+  left: calc(46.68% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-29189-xGVXJJ {
+  background-color: transparent;
+  bottom: calc(47.69% - 2px);
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-29190-xGVXJJ {
+  background-color: transparent;
+  bottom: calc(47.49% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-29191-xGVXJJ {
+  background-color: transparent;
+  bottom: calc(46.85% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 1px;
+}
+
+.teacher-dashboard .group-1528-43Vrfk {
+  background-color: transparent;
+  bottom: calc(46.91% - 6px);
+  height: 13px;
+  position: absolute;
+  right: calc(49.80% - 30px);
+  width: 60px;
+}
+
+.teacher-dashboard .path-29192-hTAxxh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 10px;
+}
+
+.teacher-dashboard .path-29193-hTAxxh {
+  background-color: transparent;
+  height: 100%;
+  left: calc(28.65% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.teacher-dashboard .path-29194-hTAxxh {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.17% - 4px);
+  top: 1px;
+  width: 8px;
+}
+
+.teacher-dashboard .path-29195-hTAxxh {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.66% - 2px);
+  top: 1px;
+  width: 8px;
+}
+
+.teacher-dashboard .path-29196-hTAxxh {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 11px;
+}
+
+.teacher-dashboard .group-1531-43Vrfk {
+  background-color: transparent;
+  bottom: 11px;
+  height: 16px;
+  left: calc(40.84% - 14px);
+  position: absolute;
+  width: 33px;
+}
+
+.teacher-dashboard .group-1529-7mA2xI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-653-iwJXTm {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 28px;
+}
+
+.teacher-dashboard .path-29197-iwJXTm {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 6px;
+}
+
+.teacher-dashboard .group-1530-7mA2xI {
+  background-color: transparent;
+  bottom: calc(37.71% - 2px);
+  height: 6px;
+  left: 4px;
+  position: absolute;
+  width: 19px;
+}
+
+.teacher-dashboard .path-29198-09aQT8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-29199-09aQT8 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  left: calc(36.11% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .path-29200-09aQT8 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 42.12%;
+  top: 0px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-29201-09aQT8 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 27.91%;
+  top: 0px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-29202-09aQT8 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .group-1532-43Vrfk {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: 28px;
+  top: calc(17.06% - 1px);
+  width: 34px;
+}
+
+.teacher-dashboard .path-29203-OqoMxp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-29204-OqoMxp {
+  background-color: transparent;
+  height: 100%;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-29205-OqoMxp {
+  background-color: transparent;
+  height: 100%;
+  left: calc(33.80% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-29206-OqoMxp {
+  background-color: transparent;
+  height: 100%;
+  left: calc(49.58% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-29207-OqoMxp {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(33.77% - 1px);
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-29208-OqoMxp {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(16.94% - 1px);
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-29209-OqoMxp {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .group-1533-43Vrfk {
+  background-color: transparent;
+  height: 10px;
+  left: calc(22.88% - 5px);
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+.teacher-dashboard .path-29210-mEfUg9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+
+.teacher-dashboard .path-29211-mEfUg9 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 10px;
+}
+
+.teacher-dashboard .group-1536-43Vrfk {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: 16px;
+  top: calc(44.19% - 9px);
+  width: 17px;
+}
+
+.teacher-dashboard .group-1534-Z056PT {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.teacher-dashboard .path-29212-3iwhGH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1535-Z056PT {
+  background-color: transparent;
+  bottom: 0px;
+  height: 9px;
+  position: absolute;
+  right: 1px;
+  width: 8px;
+}
+
+.teacher-dashboard .path-29213-lxrixy {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1539-43Vrfk {
+  background-color: transparent;
+  bottom: calc(23.55% - 2px);
+  height: 7px;
+  left: calc(41.27% - 4px);
+  position: absolute;
+  width: 9px;
+}
+
+.teacher-dashboard .group-1537-f6T1ir {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .rectangle-654-c9luBO {
+  background-color: #ffa561;
+  bottom: 0px;
+  height: 4px;
+  position: absolute;
+  right: calc(46.87% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .path-29214-c9luBO {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1538-f6T1ir {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.teacher-dashboard .rectangle-655-XKwQIz {
+  background-color: var(--white);
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180deg);
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .path-29215-XKwQIz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1542-43Vrfk {
+  background-color: transparent;
+  height: 7px;
+  position: absolute;
+  right: calc(38.02% - 2px);
+  top: calc(16.58% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .group-1540-9SrpjD {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-656-JDZW7H {
+  background-color: #ffa561;
+  bottom: 5.61%;
+  height: 3px;
+  left: 1px;
+  position: absolute;
+  transform: rotate(90deg);
+  width: 2px;
+}
+
+.teacher-dashboard .path-29216-JDZW7H {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .group-1541-9SrpjD {
+  background-color: transparent;
+  height: 3px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-657-TgEh2y {
+  background-color: #cde0fb;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  transform: rotate(270deg);
+  width: 2px;
+}
+
+.teacher-dashboard .path-29217-TgEh2y {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.teacher-dashboard .explore-shglibrary-5xLHso {
+  background-color: transparent;
+  bottom: 24px;
+  color: var(--martinique);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 59px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(48.60% - 75px);
+  text-align: center;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.teacher-dashboard .component-25-1-C61RwL {
+  background-color: transparent;
+  height: 261px;
+  left: 593px;
+  position: absolute;
+  top: 358px;
+  width: 261px;
+}
+
+.teacher-dashboard .path-31797-aB2xmo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-1487-aB2xmo {
+  background-color: var(--white);
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .tips-for-data-d-01-2021-50-m-bs-aB2xmo {
+  background-color: transparent;
+  height: 63px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: calc(100.00% - 26px);
+}
+
+.teacher-dashboard .span0-uilaPl {
+}
+
+.teacher-dashboard .span1-uilaPl {
+}
+
+.teacher-dashboard .span2-uilaPl {
+}
+
+.teacher-dashboard .group-1159-aB2xmo {
+  background-color: transparent;
+  bottom: 29px;
+  height: 126px;
+  left: calc(50.00% - 90px);
+  position: absolute;
+  width: 181px;
+}
+
+.teacher-dashboard .path-27740-nVVlhD {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1166-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 92px;
+  position: absolute;
+  right: 6px;
+  width: 55px;
+}
+
+.teacher-dashboard .group-1159-0ZzyxG {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.teacher-dashboard .path-27741-OSb4qY {
+  background-color: transparent;
+  height: calc(100.00% - 9px);
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 9px;
+  width: 25px;
+}
+
+.teacher-dashboard .path-27742-OSb4qY {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: calc(43.42% - 9px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.teacher-dashboard .path-27743-OSb4qY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 52px;
+  left: calc(37.89% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.teacher-dashboard .path-27744-OSb4qY {
+  background-color: transparent;
+  bottom: 3px;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 28px;
+}
+
+.teacher-dashboard .path-27745-OSb4qY {
+  background-color: transparent;
+  bottom: 4px;
+  height: 34px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.teacher-dashboard .path-27746-OSb4qY {
+  background-color: transparent;
+  bottom: 1px;
+  height: 51px;
+  left: calc(33.97% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.teacher-dashboard .path-27747-OSb4qY {
+  background-color: transparent;
+  bottom: 3px;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 28px;
+}
+
+.teacher-dashboard .path-27748-OSb4qY {
+  background-color: transparent;
+  bottom: 5px;
+  height: 33px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.teacher-dashboard .group-1165-0ZzyxG {
+  background-color: transparent;
+  bottom: 0px;
+  height: 34px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.teacher-dashboard .path-27749-xFnrYB {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.teacher-dashboard .path-27750-xFnrYB {
+  background-color: transparent;
+  bottom: 1px;
+  height: 23px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.teacher-dashboard .group-1162-xFnrYB {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 25px;
+}
+
+.teacher-dashboard .group-1160-pcZQ2P {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.teacher-dashboard .path-27751-5GmJKU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1161-pcZQ2P {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.teacher-dashboard .path-27752-SAfHl2 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27753-pcZQ2P {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.11% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27754-pcZQ2P {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.97% - 2px);
+  top: 23.13%;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27755-pcZQ2P {
+  background-color: transparent;
+  height: 2px;
+  left: calc(41.87% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.08% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27756-pcZQ2P {
+  background-color: transparent;
+  bottom: calc(43.85% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.46% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27757-pcZQ2P {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: calc(46.71% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27758-pcZQ2P {
+  background-color: transparent;
+  height: 4px;
+  left: calc(39.09% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27759-pcZQ2P {
+  background-color: transparent;
+  height: 4px;
+  left: calc(26.58% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(23.89% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27760-pcZQ2P {
+  background-color: transparent;
+  height: 4px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(41.58% - 2px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27761-pcZQ2P {
+  background-color: transparent;
+  bottom: calc(44.98% - 2px);
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.67% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27762-pcZQ2P {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(32.08% - 1px);
+  top: 2px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27763-pcZQ2P {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.01% - 1px);
+  top: 1px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27764-pcZQ2P {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: calc(38.27% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27765-pcZQ2P {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: calc(32.93% - 1px);
+  width: 1px;
+}
+
+.teacher-dashboard .group-1164-xFnrYB {
+  background-color: transparent;
+  bottom: 1px;
+  height: 10px;
+  position: absolute;
+  right: 2px;
+  width: 20px;
+}
+
+.teacher-dashboard .group-1163-c1O2cF {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-27766-MyvNTX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27767-c1O2cF {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 24.70%;
+  top: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27768-c1O2cF {
+  background-color: transparent;
+  height: 4px;
+  left: calc(49.57% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(26.16% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .path-27769-c1O2cF {
+  background-color: transparent;
+  bottom: calc(40.77% - 2px);
+  height: 4px;
+  left: 23.43%;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27770-c1O2cF {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.93% - 1px);
+  top: calc(49.99% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27771-c1O2cF {
+  background-color: transparent;
+  bottom: calc(27.92% - 1px);
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.71% - 2px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27772-c1O2cF {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 32.38%;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27773-c1O2cF {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .group-1174-nVVlhD {
+  background-color: transparent;
+  bottom: calc(44.79% - 16px);
+  height: 35px;
+  left: 18px;
+  position: absolute;
+  width: 18px;
+}
+
+.teacher-dashboard .group-1167-kjkgFa {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  position: absolute;
+  right: 1px;
+  top: 5px;
+  width: 13px;
+}
+
+.teacher-dashboard .path-27774-3Nwu9i {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1168-kjkgFa {
+  background-color: transparent;
+  height: 7px;
+  left: calc(20.51% - 1px);
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27775-zHbevh {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1169-kjkgFa {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: calc(19.76% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-27776-8ZXpfz {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1170-kjkgFa {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(35.70% - 1px);
+  width: 7px;
+}
+
+.teacher-dashboard .path-27777-xUouzq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1171-kjkgFa {
+  background-color: transparent;
+  bottom: calc(48.36% - 2px);
+  height: 3px;
+  left: calc(21.09% - 1px);
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27778-e83elU {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1172-kjkgFa {
+  background-color: transparent;
+  height: 4px;
+  left: calc(44.50% - 2px);
+  position: absolute;
+  top: calc(26.95% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27779-3WXy2q {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1173-kjkgFa {
+  background-color: transparent;
+  height: 4px;
+  position: absolute;
+  right: calc(48.68% - 2px);
+  top: calc(38.71% - 2px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27780-PjpGOs {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1182-nVVlhD {
+  background-color: transparent;
+  bottom: calc(29.88% - 5px);
+  height: 15px;
+  left: 10px;
+  position: absolute;
+  width: 22px;
+}
+
+.teacher-dashboard .group-1175-tirHVn {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .path-27781-TcVk1w {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1176-tirHVn {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27782-jSmQxx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1177-tirHVn {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: calc(31.82% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-27783-61CxOA {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1178-tirHVn {
+  background-color: transparent;
+  bottom: calc(48.03% - 1px);
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27784-r84O4H {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1179-tirHVn {
+  background-color: transparent;
+  bottom: calc(31.32% - 1px);
+  height: 2px;
+  left: calc(33.21% - 1px);
+  position: absolute;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27785-cBv3OK {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1180-tirHVn {
+  background-color: transparent;
+  height: 4px;
+  left: calc(28.49% - 1px);
+  position: absolute;
+  top: calc(21.41% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .path-27786-HWWYpx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1181-tirHVn {
+  background-color: transparent;
+  height: 4px;
+  left: calc(38.37% - 1px);
+  position: absolute;
+  top: calc(37.27% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .path-27787-xKRJUg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1191-nVVlhD {
+  background-color: transparent;
+  bottom: 11px;
+  height: 11px;
+  left: 3px;
+  position: absolute;
+  width: 32px;
+}
+
+.teacher-dashboard .group-1183-XAWbkv {
+  background-color: transparent;
+  height: 6px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 4px);
+}
+
+.teacher-dashboard .path-27788-kH3J3M {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1184-XAWbkv {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-27789-VtwG12 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1185-XAWbkv {
+  background-color: transparent;
+  height: 3px;
+  left: 3px;
+  position: absolute;
+  top: calc(46.10% - 1px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-27790-UIFH1a {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1186-XAWbkv {
+  background-color: transparent;
+  bottom: 1px;
+  height: 5px;
+  left: calc(27.17% - 1px);
+  position: absolute;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27791-2ptenk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1187-XAWbkv {
+  background-color: transparent;
+  bottom: 0px;
+  height: 5px;
+  left: calc(42.25% - 2px);
+  position: absolute;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27792-QsGEvs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1188-XAWbkv {
+  background-color: transparent;
+  height: 5px;
+  left: calc(27.99% - 1px);
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27793-0Kv81A {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1189-XAWbkv {
+  background-color: transparent;
+  height: 5px;
+  left: calc(43.32% - 2px);
+  position: absolute;
+  top: calc(28.69% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27794-dhIFxM {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1190-XAWbkv {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  position: absolute;
+  right: calc(40.43% - 1px);
+  width: 1px;
+}
+
+.teacher-dashboard .path-27795-zhTVJG {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27796-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 59px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  width: 48px;
+}
+
+.teacher-dashboard .group-1192-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 19px;
+  left: 23px;
+  position: absolute;
+  width: 33px;
+}
+
+.teacher-dashboard .path-27797-SO5ez7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27798-SO5ez7 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1203-nVVlhD {
+  background-color: transparent;
+  bottom: calc(43.20% - 23px);
+  height: 52px;
+  left: calc(17.99% - 3px);
+  position: absolute;
+  width: 17px;
+}
+
+.teacher-dashboard .group-1202-ZE2YD2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1193-zBjgCK {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 0px;
+  top: 7px;
+  width: 10px;
+}
+
+.teacher-dashboard .path-27799-WnrdpV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1194-zBjgCK {
+  background-color: transparent;
+  height: 10px;
+  left: calc(46.73% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27800-4eeDTY {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1195-zBjgCK {
+  background-color: transparent;
+  height: 9px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-27801-6HYc2z {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1196-zBjgCK {
+  background-color: transparent;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(30.03% - 2px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27802-xWczxF {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1197-zBjgCK {
+  background-color: transparent;
+  height: 2px;
+  left: calc(34.75% - 1px);
+  position: absolute;
+  top: calc(48.14% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27803-K7nbXP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1198-zBjgCK {
+  background-color: transparent;
+  bottom: calc(44.95% - 1px);
+  height: 2px;
+  left: calc(38.84% - 1px);
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27804-LBAHx6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1199-zBjgCK {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: calc(27.16% - 2px);
+  top: calc(28.01% - 1px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-27805-KTls9H {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1200-zBjgCK {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: calc(24.80% - 2px);
+  top: calc(38.90% - 2px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-27806-hUQ7vB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1201-zBjgCK {
+  background-color: transparent;
+  bottom: calc(46.86% - 1px);
+  height: 3px;
+  position: absolute;
+  right: calc(33.47% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27807-Vzr5ht {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1204-nVVlhD {
+  background-color: transparent;
+  bottom: calc(22.08% - 2px);
+  height: 11px;
+  position: absolute;
+  right: calc(21.90% - 3px);
+  width: 15px;
+}
+
+.teacher-dashboard .path-27808-OTmUj2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 9px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-27809-OTmUj2 {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27810-OTmUj2 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27811-nVVlhD {
+  background-color: transparent;
+  bottom: calc(26.92% - 4px);
+  height: 15px;
+  left: calc(18.08% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 11px;
+}
+
+.teacher-dashboard .path-27812-nVVlhD {
+  background-color: transparent;
+  bottom: calc(26.58% - 2px);
+  height: 6px;
+  left: calc(22.59% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27813-nVVlhD {
+  background-color: transparent;
+  bottom: calc(19.85% - 2px);
+  height: 10px;
+  left: calc(23.68% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.teacher-dashboard .path-27814-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 60px;
+  left: calc(30.72% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 45px;
+}
+
+.teacher-dashboard .path-27815-nVVlhD {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(36.17% - 22px);
+  width: 61px;
+}
+
+.teacher-dashboard .path-27816-nVVlhD {
+  background-color: transparent;
+  height: 48px;
+  left: calc(33.14% - 20px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(37.49% - 18px);
+  width: 60px;
+}
+
+.teacher-dashboard .path-27817-nVVlhD {
+  background-color: transparent;
+  height: 60px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(33.96% - 15px);
+  top: calc(46.25% - 28px);
+  width: 45px;
+}
+
+.teacher-dashboard .path-27818-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27819-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: calc(21.86% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27820-nVVlhD {
+  background-color: transparent;
+  bottom: 4px;
+  height: 23px;
+  left: calc(21.59% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27821-nVVlhD {
+  background-color: transparent;
+  bottom: 5px;
+  height: 23px;
+  left: calc(18.83% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 9px;
+}
+
+.teacher-dashboard .path-27822-nVVlhD {
+  background-color: transparent;
+  bottom: calc(23.08% - 3px);
+  height: 12px;
+  left: calc(20.32% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 6px;
+}
+
+.teacher-dashboard .path-27823-nVVlhD {
+  background-color: transparent;
+  bottom: calc(30.02% - 1px);
+  height: 4px;
+  left: 21.23%;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27824-nVVlhD {
+  background-color: transparent;
+  bottom: calc(31.41% - 1px);
+  height: 2px;
+  left: 21.48%;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27825-nVVlhD {
+  background-color: transparent;
+  bottom: calc(32.76% - 1px);
+  height: 4px;
+  left: calc(21.34% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27826-nVVlhD {
+  background-color: transparent;
+  bottom: 32.99%;
+  height: 1px;
+  left: 22.61%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27827-nVVlhD {
+  background-color: transparent;
+  bottom: calc(33.73% - 1px);
+  height: 3px;
+  left: calc(20.87% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27828-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27829-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  left: calc(21.89% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27830-nVVlhD {
+  background-color: transparent;
+  bottom: 33.21%;
+  height: 1px;
+  left: 20.81%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27831-nVVlhD {
+  background-color: transparent;
+  bottom: 32.37%;
+  height: 1px;
+  left: 21.85%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.teacher-dashboard .group-1206-nVVlhD {
+  background-color: transparent;
+  height: 33px;
+  position: absolute;
+  right: calc(36.52% - 5px);
+  top: 8px;
+  width: 15px;
+}
+
+.teacher-dashboard .path-27832-MwAtAK {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(34.20% - 1px);
+  top: calc(26.38% - 2px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27833-MwAtAK {
+  background-color: transparent;
+  height: 13px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.00% - 4px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27834-MwAtAK {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: calc(21.34% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27835-MwAtAK {
+  background-color: transparent;
+  bottom: calc(36.87% - 2px);
+  height: 5px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .path-27836-MwAtAK {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: calc(21.14% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27837-MwAtAK {
+  background-color: transparent;
+  bottom: 2px;
+  height: 13px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27838-MwAtAK {
+  background-color: transparent;
+  height: 10px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.96% - 4px);
+  width: 9px;
+}
+
+.teacher-dashboard .path-27839-MwAtAK {
+  background-color: transparent;
+  height: 6px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(26.77% - 2px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27840-MwAtAK {
+  background-color: transparent;
+  bottom: 1px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27841-MwAtAK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27842-MwAtAK {
+  background-color: transparent;
+  bottom: 2px;
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27843-MwAtAK {
+  background-color: transparent;
+  height: 6px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(45.10% - 3px);
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-27844-MwAtAK {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 28.87%;
+  top: 45.91%;
+  width: 1px;
+}
+
+.teacher-dashboard .group-1205-MwAtAK {
+  background-color: transparent;
+  height: 9px;
+  left: calc(33.24% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27845-ETQFbH {
+  background-color: transparent;
+  height: 6px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27846-ETQFbH {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: calc(30.95% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27847-ETQFbH {
+  background-color: transparent;
+  bottom: calc(32.09% - 1px);
+  height: 2px;
+  left: calc(31.64% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27848-ETQFbH {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .path-27849-ETQFbH {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 39.24%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27850-ETQFbH {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-27851-MwAtAK {
+  background-color: transparent;
+  height: 1px;
+  left: 39.02%;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.teacher-dashboard .group-1209-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 44px;
+  position: absolute;
+  right: calc(46.88% - 6px);
+  width: 13px;
+}
+
+.teacher-dashboard .path-27852-LqL3DU {
+  background-color: transparent;
+  height: 3px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.54% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .path-27853-LqL3DU {
+  background-color: transparent;
+  height: 7px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(19.30% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-27854-LqL3DU {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.27% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .path-27855-LqL3DU {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27856-LqL3DU {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 20.37%;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27857-LqL3DU {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  left: calc(25.05% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .group-1207-LqL3DU {
+  background-color: transparent;
+  height: 13px;
+  left: calc(48.49% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-27858-zhcHKo {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27859-zhcHKo {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 23.32%;
+  top: 17.92%;
+  width: 1px;
+}
+
+.teacher-dashboard .group-1208-LqL3DU {
+  background-color: transparent;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27860-xjtXDI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27861-xjtXDI {
+  background-color: transparent;
+  bottom: 29.30%;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27862-xjtXDI {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27863-xjtXDI {
+  background-color: transparent;
+  height: 6px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27864-xjtXDI {
+  background-color: transparent;
+  bottom: calc(49.74% - 1px);
+  height: 1px;
+  left: 42.34%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27865-LqL3DU {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.78% - 1px);
+  top: calc(29.52% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-27866-LqL3DU {
+  background-color: transparent;
+  bottom: 2px;
+  height: 24px;
+  left: calc(26.91% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27867-LqL3DU {
+  background-color: transparent;
+  bottom: 2px;
+  height: 25px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(37.68% - 3px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27868-LqL3DU {
+  background-color: transparent;
+  height: 1px;
+  left: 21.76%;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27869-LqL3DU {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: calc(25.65% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27870-LqL3DU {
+  background-color: transparent;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(22.82% - 3px);
+  width: 9px;
+}
+
+.teacher-dashboard .path-27871-LqL3DU {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(33.12% - 2px);
+  top: calc(17.97% - 1px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-27872-nVVlhD {
+  background-color: transparent;
+  height: 12px;
+  left: calc(35.83% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 9px;
+}
+
+.teacher-dashboard .path-27873-nVVlhD {
+  background-color: transparent;
+  height: 11px;
+  left: calc(32.52% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(17.07% - 2px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-27874-nVVlhD {
+  background-color: transparent;
+  height: 4px;
+  left: calc(33.86% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27875-nVVlhD {
+  background-color: transparent;
+  height: 4px;
+  left: calc(27.27% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(29.99% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27876-nVVlhD {
+  background-color: transparent;
+  height: 13px;
+  left: calc(30.13% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(21.74% - 3px);
+  width: 15px;
+}
+
+.teacher-dashboard .path-27877-nVVlhD {
+  background-color: transparent;
+  height: 5px;
+  left: calc(30.16% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.96% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27878-nVVlhD {
+  background-color: transparent;
+  height: 15px;
+  left: calc(32.26% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(22.38% - 3px);
+  width: 12px;
+}
+
+.teacher-dashboard .path-27879-nVVlhD {
+  background-color: transparent;
+  height: 3px;
+  left: calc(30.01% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.52% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27880-nVVlhD {
+  background-color: transparent;
+  height: 3px;
+  left: calc(26.93% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.51% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27881-nVVlhD {
+  background-color: transparent;
+  height: 10px;
+  left: calc(34.77% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-27882-nVVlhD {
+  background-color: transparent;
+  height: 4px;
+  left: calc(35.21% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27883-nVVlhD {
+  background-color: transparent;
+  height: 1px;
+  left: 35.39%;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27884-nVVlhD {
+  background-color: transparent;
+  height: 4px;
+  left: calc(35.46% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27885-nVVlhD {
+  background-color: transparent;
+  height: 1px;
+  left: 34.89%;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27886-nVVlhD {
+  background-color: transparent;
+  height: 3px;
+  left: calc(36.36% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27887-nVVlhD {
+  background-color: transparent;
+  height: 1px;
+  left: 36.44%;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27888-nVVlhD {
+  background-color: transparent;
+  height: 1px;
+  left: 35.43%;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27889-nVVlhD {
+  background-color: transparent;
+  height: 1px;
+  left: calc(38.76% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 24.04%;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27890-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 29px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27891-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 29px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27892-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 25px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27893-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27894-nVVlhD {
+  background-color: transparent;
+  bottom: 3px;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: 25px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27895-nVVlhD {
+  background-color: transparent;
+  bottom: 3px;
+  height: 25px;
+  object-fit: cover;
+  position: absolute;
+  right: 25px;
+  width: 7px;
+}
+
+.teacher-dashboard .path-27896-nVVlhD {
+  background-color: transparent;
+  bottom: calc(21.65% - 3px);
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 25px;
+  width: 14px;
+}
+
+.teacher-dashboard .path-27897-nVVlhD {
+  background-color: transparent;
+  bottom: calc(28.43% - 1px);
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(20.82% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27898-nVVlhD {
+  background-color: transparent;
+  bottom: calc(29.23% - 1px);
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 21.54%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27899-nVVlhD {
+  background-color: transparent;
+  bottom: calc(30.18% - 1px);
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(21.79% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27900-nVVlhD {
+  background-color: transparent;
+  bottom: calc(31.05% - 1px);
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(21.58% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-27901-nVVlhD {
+  background-color: transparent;
+  bottom: 30.92%;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 21.56%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27902-nVVlhD {
+  background-color: transparent;
+  bottom: 29.86%;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 22.39%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27903-nVVlhD {
+  background-color: transparent;
+  bottom: calc(20.13% - 2px);
+  height: 11px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(20.21% - 2px);
+  width: 12px;
+}
+
+.teacher-dashboard .path-27904-nVVlhD {
+  background-color: transparent;
+  bottom: calc(26.39% - 2px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.84% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-27905-nVVlhD {
+  background-color: transparent;
+  bottom: 32.16%;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 48.36%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27906-nVVlhD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 12px);
+}
+
+.teacher-dashboard .path-27907-nVVlhD {
+  background-color: transparent;
+  height: 12px;
+  left: calc(37.92% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(17.09% - 2px);
+  width: 7px;
+}
+
+.teacher-dashboard .path-27908-nVVlhD {
+  background-color: transparent;
+  height: 4px;
+  left: calc(36.67% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27909-nVVlhD {
+  background-color: transparent;
+  bottom: calc(25.41% - 1px);
+  height: 6px;
+  left: calc(20.62% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 9px;
+}
+
+.teacher-dashboard .path-27910-nVVlhD {
+  background-color: transparent;
+  bottom: calc(26.90% - 2px);
+  height: 6px;
+  left: calc(19.52% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .component-25-4-C61RwL {
+  background-color: transparent;
+  height: 261px;
+  left: 869px;
+  position: absolute;
+  top: 358px;
+  width: 261px;
+}
+
+.teacher-dashboard .path-31797-cPrnox {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-1487-cPrnox {
+  background-color: var(--white);
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .tips-for-data-d-01-2021-50-m-bs-cPrnox {
+  background-color: transparent;
+  height: 63px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: calc(100.00% - 26px);
+}
+
+.teacher-dashboard .span0-wRz4xW {
+}
+
+.teacher-dashboard .span1-wRz4xW {
+}
+
+.teacher-dashboard .span2-wRz4xW {
+}
+
+.teacher-dashboard .group-3548-cPrnox {
+  background-color: transparent;
+  bottom: 30px;
+  height: 120px;
+  left: 32px;
+  position: absolute;
+  width: calc(100.00% - 63px);
+}
+
+.teacher-dashboard .group-1157-9t1kGR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1156-ov1B37 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .path-27664-XwZxD8 {
+  background-color: transparent;
+  height: calc(100.00% - 9px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1140-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(27.67% - 3px);
+  height: 10px;
+  left: calc(28.49% - 2px);
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27665-WzkV54 {
+  background-color: transparent;
+  height: 2px;
+  left: 25.62%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27666-WzkV54 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27667-WzkV54 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27668-WzkV54 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27669-WzkV54 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27670-WzkV54 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27671-WzkV54 {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-486-WzkV54 {
+  background-color: #355389;
+  bottom: -1px;
+  height: 5px;
+  left: 2px;
+  position: absolute;
+  transform: rotate(-89.86deg);
+  width: calc(100.00% - 4px);
+}
+
+.teacher-dashboard .group-1141-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(27.80% - 3px);
+  height: 10px;
+  left: calc(17.21% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 20px;
+}
+
+.teacher-dashboard .rectangle-487-XwZxD8 {
+  background-color: var(--blue-dianne);
+  bottom: 1px;
+  height: 36px;
+  left: calc(44.69% - 1px);
+  position: absolute;
+  transform: rotate(10.73deg);
+  width: 2px;
+}
+
+.teacher-dashboard .path-27684-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(30.75% - 3px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27685-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.94% - 4px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27686-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(37.17% - 3px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27687-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(34.45% - 23px);
+  height: 66px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(42.42% - 27px);
+  width: 63px;
+}
+
+.teacher-dashboard .path-27688-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(33.69% - 22px);
+  height: 65px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(41.27% - 24px);
+  width: 59px;
+}
+
+.teacher-dashboard .path-27689-XwZxD8 {
+  background-color: transparent;
+  height: 5px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(37.33% - 2px);
+  width: 5px;
+}
+
+.teacher-dashboard .group-1143-XwZxD8 {
+  background-color: transparent;
+  height: 18px;
+  position: absolute;
+  right: calc(36.06% - 8px);
+  top: 0px;
+  width: 23px;
+}
+
+.teacher-dashboard .path-27690-xY2DDI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1142-xY2DDI {
+  background-color: transparent;
+  height: 8px;
+  left: calc(46.78% - 4px);
+  position: absolute;
+  top: calc(27.81% - 2px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27691-1xX1CO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27692-1xX1CO {
+  background-color: transparent;
+  bottom: calc(23.48% - 1px);
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.81% - 2px);
+  width: 4px;
+}
+
+.teacher-dashboard .group-1145-XwZxD8 {
+  background-color: transparent;
+  height: 13px;
+  left: calc(32.46% - 8px);
+  position: absolute;
+  top: calc(39.49% - 5px);
+  width: 24px;
+}
+
+.teacher-dashboard .path-27693-hrA0U0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+
+.teacher-dashboard .path-27694-hrA0U0 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 7px;
+}
+
+.teacher-dashboard .group-1144-hrA0U0 {
+  background-color: transparent;
+  height: 9px;
+  left: calc(30.68% - 3px);
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.teacher-dashboard .path-27695-Kxf40f {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27696-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(49.83% - 2px);
+  height: 5px;
+  left: calc(47.84% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27697-XwZxD8 {
+  background-color: transparent;
+  height: 18px;
+  left: calc(49.07% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.80% - 8px);
+  width: 10px;
+}
+
+.teacher-dashboard .path-27698-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(48.42% - 18px);
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(43.75% - 10px);
+  width: 23px;
+}
+
+.teacher-dashboard .path-27699-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(42.52% - 3px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27700-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(28.95% - 4px);
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.90% - 18px);
+  width: 38px;
+}
+
+.teacher-dashboard .path-27701-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(42.53% - 3px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27702-XwZxD8 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.15% - 6px);
+  width: 15px;
+}
+
+.teacher-dashboard .path-27703-XwZxD8 {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.29% - 7px);
+  top: calc(21.96% - 4px);
+  width: 17px;
+}
+
+.teacher-dashboard .path-27704-XwZxD8 {
+  background-color: transparent;
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.73% - 2px);
+  top: calc(32.69% - 4px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-27705-XwZxD8 {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.71% - 2px);
+  top: calc(31.04% - 2px);
+  width: 5px;
+}
+
+.teacher-dashboard .path-27706-XwZxD8 {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.23% - 4px);
+  top: calc(25.31% - 4px);
+  width: 9px;
+}
+
+.teacher-dashboard .path-27707-XwZxD8 {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(42.97% - 1px);
+  top: calc(27.91% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .path-27708-XwZxD8 {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.61% - 3px);
+  top: calc(21.27% - 1px);
+  width: 7px;
+}
+
+.teacher-dashboard .path-27709-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(49.23% - 15px);
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(43.39% - 12px);
+  width: 28px;
+}
+
+.teacher-dashboard .path-27710-XwZxD8 {
+  background-color: transparent;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.50% - 3px);
+  top: calc(43.25% - 8px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27711-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(43.37% - 7px);
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.16% - 3px);
+  width: 7px;
+}
+
+.teacher-dashboard .path-27712-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: calc(45.34% - 6px);
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.teacher-dashboard .path-27713-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: calc(44.94% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 15px;
+}
+
+.teacher-dashboard .path-27714-XwZxD8 {
+  background-color: transparent;
+  bottom: 6px;
+  height: 38px;
+  left: calc(44.27% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 15px;
+}
+
+.teacher-dashboard .path-27715-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(42.75% - 7px);
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.80% - 20px);
+  width: 40px;
+}
+
+.teacher-dashboard .path-27716-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(43.60% - 1px);
+  height: 2px;
+  left: calc(47.36% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .ellipse-134-XwZxD8 {
+  background-color: #9bc1f9;
+  border-radius: 9.84px/9.86px;
+  height: 20px;
+  opacity: 0.3;
+  position: absolute;
+  right: calc(21.59% - 4px);
+  top: 18px;
+  width: 20px;
+}
+
+.teacher-dashboard .group-1153-XwZxD8 {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(21.34% - 5px);
+  top: 17px;
+  width: 21px;
+}
+
+.teacher-dashboard .group-1152-LepMLv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1146-1fpldH {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 49.50%;
+  width: 4px;
+}
+
+.teacher-dashboard .rectangle-488-7cwncx {
+  background-color: var(--blue-dianne);
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1147-1fpldH {
+  background-color: transparent;
+  height: 1px;
+  position: absolute;
+  right: 0px;
+  top: 49.50%;
+  width: 4px;
+}
+
+.teacher-dashboard .rectangle-489-3qsuxx {
+  background-color: var(--blue-dianne);
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1148-1fpldH {
+  background-color: transparent;
+  height: 4px;
+  left: 49.87%;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-490-hkOH3q {
+  background-color: var(--blue-dianne);
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1149-1fpldH {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 49.87%;
+  position: absolute;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-491-xJK8ru {
+  background-color: var(--blue-dianne);
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27717-1fpldH {
+  background-color: transparent;
+  height: 1px;
+  left: 49.94%;
+  object-fit: cover;
+  position: absolute;
+  top: 49.75%;
+  width: 1px;
+}
+
+.teacher-dashboard .group-1150-1fpldH {
+  background-color: transparent;
+  height: 6px;
+  left: calc(32.55% - 2px);
+  position: absolute;
+  top: calc(32.22% - 2px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-27718-ixuTxW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1151-1fpldH {
+  background-color: transparent;
+  bottom: calc(32.87% - 2px);
+  height: 5px;
+  position: absolute;
+  right: calc(45.35% - 1px);
+  width: 2px;
+}
+
+.teacher-dashboard .path-27719-HPvW8x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27720-XwZxD8 {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 26px;
+  top: calc(39.52% - 3px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-27721-XwZxD8 {
+  background-color: transparent;
+  height: 7px;
+  left: calc(45.63% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.teacher-dashboard .path-27722-XwZxD8 {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(20.48% - 1px);
+  top: 7px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27723-XwZxD8 {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.08% - 1px);
+  top: calc(43.81% - 2px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27724-XwZxD8 {
+  background-color: transparent;
+  height: 4px;
+  left: calc(22.76% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(28.39% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27725-XwZxD8 {
+  background-color: transparent;
+  height: 4px;
+  left: calc(42.76% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(26.64% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27726-XwZxD8 {
+  background-color: transparent;
+  height: 7px;
+  left: calc(33.54% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 8px;
+}
+
+.teacher-dashboard .path-27727-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(43.87% - 2px);
+  height: 4px;
+  left: calc(31.25% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 10px;
+}
+
+.teacher-dashboard .path-27728-XwZxD8 {
+  background-color: transparent;
+  bottom: calc(43.71% - 4px);
+  height: 9px;
+  left: calc(18.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.teacher-dashboard .group-1154-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 61px;
+  position: absolute;
+  right: calc(19.41% - 6px);
+  width: 30px;
+}
+
+.teacher-dashboard .path-27729-bdxqx1 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.teacher-dashboard .path-27730-bdxqx1 {
+  background-color: transparent;
+  height: 47px;
+  left: calc(47.80% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.teacher-dashboard .path-27731-bdxqx1 {
+  background-color: transparent;
+  height: 46px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(27.96% - 2px);
+  top: 2px;
+  width: 9px;
+}
+
+.teacher-dashboard .path-27732-bdxqx1 {
+  background-color: transparent;
+  bottom: calc(28.80% - 4px);
+  height: 15px;
+  left: calc(22.07% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 9px;
+}
+
+.teacher-dashboard .path-27733-bdxqx1 {
+  background-color: transparent;
+  bottom: calc(28.26% - 6px);
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 10px;
+}
+
+.teacher-dashboard .path-27734-bdxqx1 {
+  background-color: transparent;
+  bottom: calc(37.61% - 11px);
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  width: 11px;
+}
+
+.teacher-dashboard .path-27735-bdxqx1 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 18px;
+}
+
+.teacher-dashboard .group-1155-XwZxD8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 30px;
+  left: 19px;
+  position: absolute;
+  width: 46px;
+}
+
+.teacher-dashboard .rectangle-492-awhCIm {
+  background-color: var(--blue-dianne);
+  height: 2px;
+  left: 5px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.teacher-dashboard .rectangle-493-awhCIm {
+  background-color: var(--blue-dianne);
+  height: 2px;
+  left: 6px;
+  position: absolute;
+  top: calc(43.74% - 1px);
+  width: 27px;
+}
+
+.teacher-dashboard .rectangle-494-awhCIm {
+  background-color: var(--blue-dianne);
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 4px;
+  top: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .rectangle-495-awhCIm {
+  background-color: var(--blue-dianne);
+  height: calc(100.00% - 1px);
+  left: calc(35.56% - 1px);
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27736-awhCIm {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.02% - 3px);
+  top: 1px;
+  width: 11px;
+}
+
+.teacher-dashboard .path-27737-awhCIm {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 10px;
+}
+
+.teacher-dashboard .path-27738-XwZxD8 {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(21.04% - 5px);
+  top: 16px;
+  width: 23px;
+}
+
+.teacher-dashboard .rectangle-496-ov1B37 {
+  background-color: #042a44;
+  bottom: 0px;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+
+.teacher-dashboard .path-27739-9t1kGR {
+  background-color: transparent;
+  height: 1px;
+  left: calc(34.07% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 2px;
+}
+
+.teacher-dashboard .component-25-5-C61RwL {
+  background-color: transparent;
+  height: 261px;
+  left: 1145px;
+  position: absolute;
+  top: 358px;
+  width: 261px;
+}
+
+.teacher-dashboard .path-31797-seY9Ct {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-1487-seY9Ct {
+  background-color: var(--white);
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .tips-for-data-d-01-2021-50-m-bs-seY9Ct {
+  background-color: transparent;
+  height: 63px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: calc(100.00% - 26px);
+}
+
+.teacher-dashboard .span0-b1u7XB {
+}
+
+.teacher-dashboard .span1-b1u7XB {
+}
+
+.teacher-dashboard .span2-b1u7XB {
+}
+
+.teacher-dashboard .group-3549-seY9Ct {
+  background-color: transparent;
+  bottom: 30px;
+  height: 135px;
+  left: 27px;
+  position: absolute;
+  width: calc(100.00% - 55px);
+}
+
+.teacher-dashboard .group-1121-TWItx4 {
+  background-color: transparent;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 28px);
+}
+
+.teacher-dashboard .path-27579-k55OFa {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 12px);
+}
+
+.teacher-dashboard .path-27580-k55OFa {
+  background-color: transparent;
+  bottom: 1px;
+  height: 95px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.teacher-dashboard .rectangle-435-k55OFa {
+  background-color: var(--zumthor);
+  height: 5px;
+  left: calc(31.31% - 6px);
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+
+.teacher-dashboard .rectangle-436-k55OFa {
+  background-color: var(--zumthor);
+  height: 5px;
+  left: calc(31.31% - 6px);
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.teacher-dashboard .rectangle-437-k55OFa {
+  background-color: var(--zumthor);
+  height: 5px;
+  left: calc(31.31% - 6px);
+  position: absolute;
+  top: 19px;
+  width: 18px;
+}
+
+.teacher-dashboard .rectangle-438-k55OFa {
+  background-color: var(--zumthor);
+  height: 5px;
+  left: calc(31.31% - 6px);
+  position: absolute;
+  top: calc(21.13% - 1px);
+  width: 18px;
+}
+
+.teacher-dashboard .rectangle-439-k55OFa {
+  background-color: var(--zumthor);
+  height: 5px;
+  left: calc(31.31% - 6px);
+  position: absolute;
+  top: calc(27.43% - 1px);
+  width: 18px;
+}
+
+.teacher-dashboard .group-1116-k55OFa {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: calc(17.82% - 2px);
+  top: 2px;
+  width: 9px;
+}
+
+.teacher-dashboard .rectangle-440-jfZQnA {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-441-jfZQnA {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(24.64% - 1px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-442-jfZQnA {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.79% - 2px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-443-jfZQnA {
+  background-color: var(--zumthor);
+  bottom: calc(24.66% - 1px);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-444-jfZQnA {
+  background-color: var(--zumthor);
+  bottom: 1px;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1117-k55OFa {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: calc(17.82% - 2px);
+  top: calc(24.50% - 6px);
+  width: 9px;
+}
+
+.teacher-dashboard .rectangle-445-sGkqTG {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-446-sGkqTG {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(24.64% - 1px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-447-sGkqTG {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.79% - 2px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-448-sGkqTG {
+  background-color: var(--zumthor);
+  bottom: calc(24.66% - 1px);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-449-sGkqTG {
+  background-color: var(--zumthor);
+  bottom: 1px;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1118-k55OFa {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 15px;
+  top: 4px;
+  width: 9px;
+}
+
+.teacher-dashboard .rectangle-450-dAPf3l {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-451-dAPf3l {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(24.64% - 1px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-452-dAPf3l {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.79% - 2px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-453-dAPf3l {
+  background-color: var(--zumthor);
+  bottom: calc(24.66% - 1px);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-454-dAPf3l {
+  background-color: var(--zumthor);
+  bottom: 1px;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1119-k55OFa {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 15px;
+  top: calc(26.13% - 6px);
+  width: 9px;
+}
+
+.teacher-dashboard .rectangle-455-cZy1Ot {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-456-cZy1Ot {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(24.64% - 1px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-457-cZy1Ot {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.79% - 2px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-458-cZy1Ot {
+  background-color: var(--zumthor);
+  bottom: calc(24.66% - 1px);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-459-cZy1Ot {
+  background-color: var(--zumthor);
+  bottom: 1px;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1120-k55OFa {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 15px;
+  top: calc(49.22% - 12px);
+  width: 9px;
+}
+
+.teacher-dashboard .rectangle-460-jy7JQx {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-461-jy7JQx {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(24.64% - 1px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-462-jy7JQx {
+  background-color: var(--zumthor);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.79% - 2px);
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-463-jy7JQx {
+  background-color: var(--zumthor);
+  bottom: calc(24.66% - 1px);
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-464-jy7JQx {
+  background-color: var(--zumthor);
+  bottom: 0px;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-465-k55OFa {
+  background-color: var(--mystic);
+  height: 7px;
+  position: absolute;
+  right: 29.06%;
+  top: 19px;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-466-k55OFa {
+  background-color: var(--mystic);
+  height: 13px;
+  position: absolute;
+  right: 24.71%;
+  top: 13px;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-467-k55OFa {
+  background-color: var(--mystic);
+  height: 2px;
+  left: 25.58%;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-468-k55OFa {
+  background-color: var(--mystic);
+  height: 2px;
+  left: 29.04%;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-469-k55OFa {
+  background-color: var(--mystic);
+  height: 2px;
+  left: 36.96%;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-470-k55OFa {
+  background-color: var(--mystic);
+  height: 2px;
+  position: absolute;
+  right: 21.10%;
+  top: 0px;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-471-k55OFa {
+  background-color: var(--mystic);
+  height: 2px;
+  position: absolute;
+  right: 27px;
+  top: 0px;
+  width: 1px;
+}
+
+.teacher-dashboard .rectangle-472-k55OFa {
+  background-color: var(--mystic);
+  height: 2px;
+  left: 33.86%;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.teacher-dashboard .group-1122-TWItx4 {
+  background-color: transparent;
+  bottom: calc(44.15% - 7px);
+  height: 16px;
+  left: calc(36.34% - 12px);
+  position: absolute;
+  width: 32px;
+}
+
+.teacher-dashboard .path-27581-efViut {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.teacher-dashboard .path-27582-efViut {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.teacher-dashboard .path-27583-efViut {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27584-TWItx4 {
+  background-color: transparent;
+  bottom: 18px;
+  height: 19px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  width: 27px;
+}
+
+.teacher-dashboard .path-27585-TWItx4 {
+  background-color: transparent;
+  height: 38px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(27.62% - 11px);
+  width: 31px;
+}
+
+.teacher-dashboard .path-27586-TWItx4 {
+  background-color: transparent;
+  bottom: calc(36.31% - 10px);
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 19px;
+  width: 31px;
+}
+
+.teacher-dashboard .path-27587-TWItx4 {
+  background-color: transparent;
+  height: 25px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.57% - 10px);
+  top: calc(27.35% - 7px);
+  width: 20px;
+}
+
+.teacher-dashboard .path-27588-TWItx4 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.28% - 18px);
+  width: 39px;
+}
+
+.teacher-dashboard .path-27589-TWItx4 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 57px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(26.98% - 10px);
+  width: 38px;
+}
+
+.teacher-dashboard .path-27590-TWItx4 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1126-TWItx4 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(24.41% - 6px);
+  position: absolute;
+  top: calc(22.75% - 3px);
+  width: 25px;
+}
+
+.teacher-dashboard .path-27591-uh1qZy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.86% - 2px);
+  width: 5px;
+}
+
+.teacher-dashboard .group-1123-uh1qZy {
+  background-color: transparent;
+  bottom: calc(27.64% - 1px);
+  height: 4px;
+  position: absolute;
+  right: calc(49.86% - 6px);
+  width: 12px;
+}
+
+.teacher-dashboard .path-27592-v8euTc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1124-uh1qZy {
+  background-color: transparent;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27593-AAQO0q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1125-uh1qZy {
+  background-color: transparent;
+  height: 6px;
+  left: 4px;
+  position: absolute;
+  top: calc(44.70% - 3px);
+  width: calc(100.00% - 7px);
+}
+
+.teacher-dashboard .path-27594-Ex0Uev {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1127-TWItx4 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 88px;
+  position: absolute;
+  right: calc(44.98% - 56px);
+  width: 125px;
+}
+
+.teacher-dashboard .rectangle-473-h9y2Yk {
+  background-color: #243a75;
+  bottom: 2px;
+  height: 18px;
+  position: absolute;
+  right: calc(50.00% - 18px);
+  width: 36px;
+}
+
+.teacher-dashboard .rectangle-474-h9y2Yk {
+  background-color: #2f4f9e;
+  border-radius: 12.36px;
+  height: calc(100.00% - 16px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .rectangle-475-h9y2Yk {
+  background-color: #afcdfb;
+  height: 63px;
+  left: 1px;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .rectangle-476-h9y2Yk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 30px);
+  width: 59px;
+}
+
+.teacher-dashboard .group-1132-TWItx4 {
+  background-color: transparent;
+  bottom: calc(29.78% - 16px);
+  height: 55px;
+  position: absolute;
+  right: calc(46.62% - 40px);
+  width: 85px;
+}
+
+.teacher-dashboard .rectangle-477-7lHyQ7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .group-1128-7lHyQ7 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 21px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 43px;
+}
+
+.teacher-dashboard .rectangle-478-7lHyQ7 {
+  background-color: var(--white);
+  height: calc(100.00% - 6px);
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .rectangle-479-7lHyQ7 {
+  background-color: #2b478b;
+  bottom: 5px;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .rectangle-480-7lHyQ7 {
+  background-color: var(--mystic);
+  bottom: 6px;
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.teacher-dashboard .rectangle-481-7lHyQ7 {
+  background-color: #b5453c;
+  bottom: 6px;
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  width: 5px;
+}
+
+.teacher-dashboard .rectangle-482-7lHyQ7 {
+  background-color: transparent;
+  bottom: 6px;
+  height: 3px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.teacher-dashboard .group-1129-7lHyQ7 {
+  background-color: transparent;
+  height: 30px;
+  left: calc(50.00% - 26px);
+  position: absolute;
+  top: calc(36.82% - 11px);
+  width: 52px;
+}
+
+.teacher-dashboard .path-27610-JG5ltu {
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-27611-JG5ltu {
+  background-color: transparent;
+  bottom: 1px;
+  height: 22px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27612-JG5ltu {
+  background-color: transparent;
+  bottom: 3px;
+  height: 14px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 20px);
+}
+
+.teacher-dashboard .group-1131-7lHyQ7 {
+  background-color: transparent;
+  bottom: calc(44.02% - 10px);
+  height: 23px;
+  opacity: 0.86;
+  position: absolute;
+  right: calc(50.00% - 12px);
+  width: 23px;
+}
+
+.teacher-dashboard .group-1130-9hMexQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27613-bhtgpF {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27614-9hMexQ {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(32.51% - 4px);
+  top: 3px;
+  width: 12px;
+}
+
+.teacher-dashboard .group-1137-TWItx4 {
+  background-color: transparent;
+  height: 52px;
+  position: absolute;
+  right: calc(21.81% - 8px);
+  top: 14px;
+  width: 35px;
+}
+
+.teacher-dashboard .group-1136-x02uz0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27615-VgH3qd {
+  background-color: transparent;
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(43.66% - 5px);
+  top: calc(30.14% - 4px);
+  width: 11px;
+}
+
+.teacher-dashboard .group-1133-VgH3qd {
+  background-color: transparent;
+  bottom: 2px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 7px;
+}
+
+.teacher-dashboard .path-27616-VYxk7v {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27617-VYxk7v {
+  background-color: transparent;
+  bottom: 0px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27618-VgH3qd {
+  background-color: transparent;
+  bottom: 6px;
+  height: 22px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  width: 24px;
+}
+
+.teacher-dashboard .group-1134-VgH3qd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 6px;
+  left: 5px;
+  position: absolute;
+  width: 7px;
+}
+
+.teacher-dashboard .path-27619-1nVR4I {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27620-1nVR4I {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.teacher-dashboard .path-27621-VgH3qd {
+  background-color: transparent;
+  bottom: 4px;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  width: 23px;
+}
+
+.teacher-dashboard .path-27622-VgH3qd {
+  background-color: transparent;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 12px;
+}
+
+.teacher-dashboard .path-27623-VgH3qd {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(21.10% - 1px);
+  top: 19.52%;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27624-VgH3qd {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(20.97% - 1px);
+  top: 7px;
+  width: 4px;
+}
+
+.teacher-dashboard .path-27625-VgH3qd {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(23.64% - 1px);
+  top: 7px;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27626-VgH3qd {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.30% - 1px);
+  top: 1px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-27627-VgH3qd {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(24.38% - 1px);
+  top: 2px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27628-VgH3qd {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(20.38% - 1px);
+  top: 1px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27629-VgH3qd {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(32.85% - 1px);
+  top: 2px;
+  width: 2px;
+}
+
+.teacher-dashboard .path-27630-VgH3qd {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: calc(30.78% - 6px);
+  width: 12px;
+}
+
+.teacher-dashboard .path-27631-VgH3qd {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: calc(42.68% - 6px);
+  width: 11px;
+}
+
+.teacher-dashboard .path-27632-VgH3qd {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: calc(28.68% - 4px);
+  width: 11px;
+}
+
+.teacher-dashboard .path-27633-VgH3qd {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: calc(21.07% - 1px);
+  width: 5px;
+}
+
+.teacher-dashboard .group-1135-VgH3qd {
+  background-color: transparent;
+  height: 5px;
+  left: calc(30.00% - 4px);
+  position: absolute;
+  top: calc(43.63% - 2px);
+  width: 13px;
+}
+
+.teacher-dashboard .rectangle-483-qSx4XI {
+  background-color: #9e332e;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+  right: 0px;
+  transform: rotate(180deg);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27634-qSx4XI {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.teacher-dashboard .path-27635-qSx4XI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+
+.teacher-dashboard .path-27636-qSx4XI {
+  background-color: transparent;
+  bottom: 49.62%;
+  height: 1px;
+  left: 32.64%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27637-VgH3qd {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.11% - 2px);
+  top: calc(46.74% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .girl-2-TWItx4 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 37px;
+  left: 7px;
+  position: absolute;
+  width: 31px;
+}
+
+.teacher-dashboard .path-27638-oVsxjy {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: calc(36.45% - 2px);
+  width: 19px;
+}
+
+.teacher-dashboard .path-27639-oVsxjy {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.teacher-dashboard .path-27640-oVsxjy {
+  background-color: transparent;
+  height: 9px;
+  left: calc(22.27% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(25.94% - 2px);
+  width: 8px;
+}
+
+.teacher-dashboard .path-27641-oVsxjy {
+  background-color: transparent;
+  height: 3px;
+  left: calc(30.01% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(21.57% - 1px);
+  width: 3px;
+}
+
+.teacher-dashboard .path-27642-oVsxjy {
+  background-color: transparent;
+  height: 7px;
+  left: calc(31.51% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.teacher-dashboard .path-27643-oVsxjy {
+  background-color: transparent;
+  height: 5px;
+  left: calc(28.81% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 7px;
+}
+
+.teacher-dashboard .path-27644-oVsxjy {
+  background-color: transparent;
+  bottom: 4px;
+  height: 23px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.teacher-dashboard .path-27645-oVsxjy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 21px;
+  left: calc(37.78% - 6px);
+  object-fit: cover;
+  position: absolute;
+  width: 15px;
+}
+
+.teacher-dashboard .path-27646-oVsxjy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  width: 6px;
+}
+
+.teacher-dashboard .path-27647-oVsxjy {
+  background-color: transparent;
+  height: 9px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(47.07% - 4px);
+  width: 9px;
+}
+
+.teacher-dashboard .path-27648-oVsxjy {
+  background-color: transparent;
+  bottom: 2px;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(27.36% - 3px);
+  width: 10px;
+}
+
+.teacher-dashboard .path-27649-oVsxjy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 22px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 16px;
+}
+
+.teacher-dashboard .path-27650-oVsxjy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(27.32% - 2px);
+  width: 6px;
+}
+
+.teacher-dashboard .path-27651-oVsxjy {
+  background-color: transparent;
+  bottom: 5px;
+  height: 10px;
+  left: calc(35.88% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.teacher-dashboard .path-27652-oVsxjy {
+  background-color: transparent;
+  bottom: 2px;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.55% - 5px);
+  width: 10px;
+}
+
+.teacher-dashboard .group-1138-oVsxjy {
+  background-color: transparent;
+  height: 7px;
+  position: absolute;
+  right: 0px;
+  top: calc(26.18% - 2px);
+  width: 10px;
+}
+
+.teacher-dashboard .path-27653-vvP4gk {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-27654-vvP4gk {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.teacher-dashboard .path-27655-vvP4gk {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 42.10%;
+  top: 49.55%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27656-vvP4gk {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 16.50%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27657-oVsxjy {
+  background-color: transparent;
+  height: 6px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(36.90% - 2px);
+  width: 20px;
+}
+
+.teacher-dashboard .path-27658-oVsxjy {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: calc(31.71% - 1px);
+  width: 4px;
+}
+
+.teacher-dashboard .path-27659-oVsxjy {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 20.59%;
+  top: 29.15%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27660-oVsxjy {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: calc(30.24% - 1px);
+  width: 1px;
+}
+
+.teacher-dashboard .path-27661-oVsxjy {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: calc(33.18% - 1px);
+  width: 1px;
+}
+
+.teacher-dashboard .path-27662-oVsxjy {
+  background-color: transparent;
+  height: 1px;
+  left: calc(37.50% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 20.81%;
+  width: 1px;
+}
+
+.teacher-dashboard .path-27663-oVsxjy {
+  background-color: transparent;
+  height: 5px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(34.74% - 2px);
+  width: 6px;
+}
+
+.teacher-dashboard .rectangle-484-TWItx4 {
+  background-color: #16254a;
+  bottom: 14px;
+  height: 2px;
+  position: absolute;
+  right: calc(47.60% - 17px);
+  width: 36px;
+}
+
+.teacher-dashboard .group-3526-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 261px;
+  left: 1421px;
+  position: absolute;
+  top: 358px;
+  width: 261px;
+}
+
+.teacher-dashboard .path-31807-3L8NQr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teacher-dashboard .create-a-lesson-3L8NQr {
+  background-color: transparent;
+  bottom: calc(21.37% - 7px);
+  color: var(--martinique);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 34px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 61px);
+}
+
+.teacher-dashboard .icaddbox24px-3L8NQr {
+  background-color: transparent;
+  height: 78px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.78% - 39px);
+  top: calc(33.29% - 26px);
+  width: 78px;
+}
+
+.teacher-dashboard .icvisibility24px-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 597px;
+  width: 12px;
+}
+
+.teacher-dashboard .iccreate24px-C61RwL {
+  background-color: transparent;
+  height: 10px;
+  left: 606px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 10px;
+}
+
+.teacher-dashboard .edit-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 623px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 592px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.teacher-dashboard .preview-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 794px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 594px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.teacher-dashboard .component-29-1-C61RwL {
+  background-color: transparent;
+  height: 37px;
+  left: 317px;
+  position: absolute;
+  top: 300px;
+  width: 261px;
+}
+
+.teacher-dashboard .rectangle-3-ow2V3t {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.teacher-dashboard .new-folder-ow2V3t {
+  background-color: transparent;
+  bottom: calc(26.14% - 6px);
+  color: var(--dove-gray);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: calc(26.85% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.teacher-dashboard .x5-ow2V3t {
+  background-color: transparent;
+  bottom: calc(26.14% - 6px);
+  color: var(--dove-gray);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 9px;
+  text-align: left;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.teacher-dashboard .icfolder24px-ow2V3t {
+  background-color: transparent;
+  height: 16px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.49% - 8px);
+  width: 20px;
+}
+
+.teacher-dashboard .icvisibility24px-VMr6Om {
+  background-color: transparent;
+  height: 8px;
+  left: 1329px;
+  object-fit: cover;
+  position: absolute;
+  top: 597px;
+  width: 12px;
+}
+
+.teacher-dashboard .iccreate24px-VMr6Om {
+  background-color: transparent;
+  height: 10px;
+  left: 1160px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 10px;
+}
+
+.teacher-dashboard .edit-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1177px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 592px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.teacher-dashboard .preview-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1348px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 594px;
+  white-space: nowrap;
+  width: auto;
+}

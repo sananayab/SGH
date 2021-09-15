@@ -1,0 +1,939 @@
+/* screen - profile */
+
+.profile {
+  background-color: var(--white);
+  height: 1530px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.profile .group-1369-C61RwL {
+  background-color: transparent;
+  height: 153px;
+  left: 375px;
+  position: absolute;
+  top: 97px;
+  width: 1157px;
+}
+
+.profile .group-1454-kSmCYN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .path-31799-c0xxUR {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.profile .group-10-c0xxUR {
+  background-color: transparent;
+  height: calc(100.00% - 43px);
+  left: 63px;
+  position: absolute;
+  top: 22px;
+  width: 110px;
+}
+
+.profile .rectangle-15-copy-6-6F3J9I {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .clip-w9tjOP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.profile .layer-19-copy-1KrGSz {
+  background-color: transparent;
+  height: calc(100.00% + 6px);
+  left: -26px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 46px);
+}
+
+.profile .layer-19-FV4Kif {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .lim-teck-whye-c0xxUR {
+  background-color: transparent;
+  bottom: calc(43.70% - 15px);
+  height: 34px;
+  left: calc(21.62% - 37px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.profile .group-1231-C61RwL {
+  background-color: transparent;
+  height: 1280px;
+  left: 375px;
+  position: absolute;
+  top: 250px;
+  width: 216px;
+}
+
+.profile .path-31800-iY8vUs {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.profile .rectangle-1180-iY8vUs {
+  background-color: var(--blueberry);
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: 152px;
+  width: calc(100.00% - 1px);
+}
+
+.profile .profile-iY8vUs {
+  background-color: transparent;
+  height: 21px;
+  left: calc(28.90% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.profile .advanced-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(32.68% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 198px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.profile .notifications-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(36.76% - 29px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(19.01% - 4px);
+  white-space: nowrap;
+  width: 80px;
+}
+
+.profile .payment-details-iY8vUs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: calc(43.47% - 44px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.10% - 5px);
+  white-space: nowrap;
+  width: 101px;
+}
+
+.profile .path-185-iY8vUs {
+  background-color: transparent;
+  height: 0px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 137px;
+  width: 0px;
+}
+
+.profile .line-575-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 232px;
+  width: 100%;
+}
+
+.profile .line-577-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 21.23%;
+  width: 100%;
+}
+
+.profile .line-650-iY8vUs {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 24.35%;
+  width: 100%;
+}
+
+.profile .teacher-iY8vUs {
+  background-color: transparent;
+  height: 23px;
+  left: calc(49.05% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.profile .signup-btn-iY8vUs {
+  background-color: transparent;
+  height: 42px;
+  left: 47px;
+  position: absolute;
+  top: 64px;
+  width: calc(100.00% - 93px);
+}
+
+.profile .rectangle-1-dhLH4P {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .upgrade-dhLH4P {
+  background-color: transparent;
+  bottom: calc(34.21% - 8px);
+  height: 23px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.profile .icbuild24px-iY8vUs {
+  background-color: transparent;
+  height: 17px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 17px;
+}
+
+.profile .icpayment24px-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(22.55% - 4px);
+  width: 20px;
+}
+
+.profile .icerror24px-iY8vUs {
+  background-color: transparent;
+  height: 17px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(19.31% - 3px);
+  width: 17px;
+}
+
+.profile .icperson24px-iY8vUs {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 164px;
+  width: 16px;
+}
+
+.profile .group-1346-C61RwL {
+  background-color: transparent;
+  height: 1280px;
+  left: 592px;
+  position: absolute;
+  top: 250px;
+  width: 940px;
+}
+
+.profile .rectangle-137-HBzfFe {
+  background-color: var(--hint-of-red);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .path-31801-HBzfFe {
+  background-color: transparent;
+  height: 340px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: calc(100.00% - 206px);
+}
+
+.profile .path-31802-HBzfFe {
+  background-color: transparent;
+  height: 340px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(45.87% - 156px);
+  width: calc(100.00% - 206px);
+}
+
+.profile .path-31803-HBzfFe {
+  background-color: transparent;
+  bottom: 138px;
+  height: 340px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 206px);
+}
+
+.profile .group-205-HBzfFe {
+  background-color: transparent;
+  height: 190px;
+  left: 139px;
+  position: absolute;
+  top: 94px;
+  width: 643px;
+}
+
+.profile .rectangle-127-xLQgih {
+  background-color: transparent;
+  bottom: calc(48.65% - 20px);
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  width: 314px;
+}
+
+.profile .rectangle-1428-xLQgih {
+  background-color: transparent;
+  bottom: calc(48.65% - 20px);
+  height: 42px;
+  position: absolute;
+  right: 0px;
+  width: 314px;
+}
+
+.profile .rectangle-138-xLQgih {
+  background-color: var(--hint-of-red);
+  bottom: 0px;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  width: 486px;
+}
+
+.profile .lim-teck-xLQgih {
+  background-color: transparent;
+  bottom: calc(48.22% - 10px);
+  height: 21px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.profile .whye-xLQgih {
+  background-color: transparent;
+  bottom: calc(48.22% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(43.02% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.profile .limteckwhyegmailcom-xLQgih {
+  background-color: transparent;
+  bottom: 10px;
+  height: 21px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.profile .basic-information-xLQgih {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 161px;
+}
+
+.profile .first-name-xLQgih {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.11% - 6px);
+  white-space: nowrap;
+  width: 71px;
+}
+
+.profile .email-xLQgih {
+  background-color: transparent;
+  bottom: calc(26.33% - 6px);
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.profile .last-name-xLQgih {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(42.68% - 29px);
+  text-align: left;
+  top: calc(28.11% - 6px);
+  white-space: nowrap;
+  width: 69px;
+}
+
+.profile .group-3514-HBzfFe {
+  background-color: transparent;
+  height: 190px;
+  left: 139px;
+  position: absolute;
+  top: calc(42.66% - 81px);
+  width: 643px;
+}
+
+.profile .rectangle-127-aKkRp1 {
+  background-color: transparent;
+  bottom: calc(48.65% - 20px);
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  width: 314px;
+}
+
+.profile .rectangle-1428-aKkRp1 {
+  background-color: transparent;
+  bottom: calc(48.65% - 20px);
+  height: 42px;
+  position: absolute;
+  right: 0px;
+  width: 314px;
+}
+
+.profile .rectangle-138-aKkRp1 {
+  background-color: var(--hint-of-red);
+  bottom: 0px;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  width: 486px;
+}
+
+.profile .singapore-aKkRp1 {
+  background-color: transparent;
+  bottom: calc(48.22% - 10px);
+  height: 21px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.profile .north-region-aKkRp1 {
+  background-color: transparent;
+  bottom: calc(48.22% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(38.53% - 33px);
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.profile .singapore-school-system-aKkRp1 {
+  background-color: transparent;
+  bottom: 10px;
+  height: 21px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.profile .school-information-aKkRp1 {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 177px;
+}
+
+.profile .country-aKkRp1 {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.11% - 6px);
+  white-space: nowrap;
+  width: 53px;
+}
+
+.profile .school-aKkRp1 {
+  background-color: transparent;
+  bottom: calc(26.33% - 6px);
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.profile .state-aKkRp1 {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(45.98% - 16px);
+  text-align: left;
+  top: calc(28.11% - 6px);
+  white-space: nowrap;
+  width: 34px;
+}
+
+.profile .ickeyboardarrowdown24px-aKkRp1 {
+  background-color: transparent;
+  bottom: calc(48.63% - 4px);
+  height: 7px;
+  left: calc(45.64% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.profile .ickeyboardarrowdown24px-ajaumO {
+  background-color: transparent;
+  bottom: calc(48.63% - 4px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 12px;
+  width: 12px;
+}
+
+.profile .group-3515-HBzfFe {
+  background-color: transparent;
+  bottom: calc(22.38% - 45px);
+  height: 203px;
+  left: 139px;
+  position: absolute;
+  width: 655px;
+}
+
+.profile .rectangle-127-JBc2Ry {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: calc(47.20% - 20px);
+  width: 100%;
+}
+
+.profile .rectangle-1429-JBc2Ry {
+  background-color: transparent;
+  bottom: 0px;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.profile .x4-5-JBc2Ry {
+  background-color: transparent;
+  height: 21px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.08% - 10px);
+  white-space: nowrap;
+  width: 23px;
+}
+
+.profile .mathematics-science-history-JBc2Ry {
+  background-color: transparent;
+  bottom: 10px;
+  height: 21px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.profile .teacher-information-JBc2Ry {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.profile .grades-JBc2Ry {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(26.10% - 5px);
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile .subjects-JBc2Ry {
+  background-color: transparent;
+  bottom: calc(27.20% - 6px);
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.profile .ickeyboardarrowdown24px-JBc2Ry {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 25px;
+  top: calc(47.95% - 4px);
+  width: 12px;
+}
+
+.profile .ickeyboardarrowdown24px-wDYx0b {
+  background-color: transparent;
+  bottom: 17px;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 25px;
+  width: 12px;
+}
+
+.profile .signup-btn-HBzfFe {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: calc(49.93% - 96px);
+  top: calc(25.89% - 12px);
+  width: 193px;
+}
+
+.profile .rectangle-1-sejZ1d {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .save-changes-sejZ1d {
+  background-color: transparent;
+  bottom: calc(36.36% - 9px);
+  height: 26px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.profile .signup-btn-mhKbHW {
+  background-color: transparent;
+  bottom: calc(43.99% - 21px);
+  height: 48px;
+  position: absolute;
+  right: calc(49.93% - 96px);
+  width: 193px;
+}
+
+.profile .rectangle-1-wBOahP {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .save-changes-wBOahP {
+  background-color: transparent;
+  bottom: calc(36.36% - 9px);
+  height: 26px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.profile .signup-btn-xBb6xq {
+  background-color: transparent;
+  bottom: 171px;
+  height: 48px;
+  position: absolute;
+  right: calc(49.93% - 96px);
+  width: 193px;
+}
+
+.profile .rectangle-1-MlAVEd {
+  background-color: var(--blueberry);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .save-changes-MlAVEd {
+  background-color: transparent;
+  bottom: calc(36.36% - 9px);
+  height: 26px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.profile .x1-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.profile .header-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .group-87-lxaxaq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .menu-yPuPNE {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.profile .bg-8a43S6 {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.profile .shg-logo1-w-8a43S6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.profile .group-10-yPuPNE {
+  background-color: transparent;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.profile .rectangle-15-copy-6-J87hxu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.profile .clip-UvR0BK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.profile .layer-19-copy-aYlxRB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.profile .layer-19-sbEufX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}

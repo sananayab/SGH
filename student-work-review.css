@@ -1,0 +1,1226 @@
+/* screen - student-work-review */
+
+.student-work-review {
+  background-color: var(--white);
+  height: 998px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.student-work-review .x1-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.student-work-review .x1-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .header-XN4VxH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .group-87-eET4qq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .menu-dxBduN {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.student-work-review .bg-t937ty {
+  background-color: var(--blueberry);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.student-work-review .shg-logo1-w-t937ty {
+  background-color: transparent;
+  height: 53px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.student-work-review .group-10-dxBduN {
+  background-color: transparent;
+  height: 57px;
+  left: 1820px;
+  position: absolute;
+  top: 23px;
+  width: 57px;
+}
+
+.student-work-review .rectangle-15-copy-6-JSx8Cq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .clip-bfSENu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .layer-19-copy-eSAlTB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.student-work-review .layer-19-w3wNqq {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .group-1369-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: -0px;
+  position: absolute;
+  top: 100px;
+  width: 1920px;
+}
+
+.student-work-review .group-1454-kSmCYN {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .path-31795-c0xxUR {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.student-work-review .student-results-c0xxUR {
+  background-color: transparent;
+  bottom: calc(46.49% - 11px);
+  height: 23px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.student-work-review .group-1777-c0xxUR {
+  background-color: transparent;
+  bottom: calc(49.99% - 18px);
+  height: 37px;
+  left: 166px;
+  position: absolute;
+  width: 757px;
+}
+
+.student-work-review .rectangle-3-Bxvc0s {
+  background-color: var(--concrete);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .search-reports-Bxvc0s {
+  background-color: transparent;
+  bottom: calc(45.18% - 8px);
+  height: 18px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.student-work-review .icsearch24px-c0xxUR {
+  background-color: transparent;
+  bottom: calc(49.99% - 9px);
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.72% - 8px);
+  width: 17px;
+}
+
+.student-work-review .group-3599-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 64px;
+  position: absolute;
+  top: 207px;
+  width: 1797px;
+}
+
+.student-work-review .rectangle-1495-0ClYxK {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .group-3592-0ClYxK {
+  background-color: transparent;
+  bottom: calc(48.72% - 28px);
+  height: 57px;
+  left: 15px;
+  position: absolute;
+  width: 1017px;
+}
+
+.student-work-review .points-Jxwyhh {
+  background-color: transparent;
+  bottom: calc(48.38% - 13px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 88px;
+  text-align: left;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.student-work-review .x2050-Jxwyhh {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 32.3px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(31.78% - 8px);
+  white-space: nowrap;
+  width: 48px;
+}
+
+.student-work-review .group-10-Jxwyhh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 57px;
+}
+
+.student-work-review .rectangle-15-copy-6-DSIRRM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .clip-MmG0GN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .layer-19-copy-RxZxMU {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.student-work-review .layer-19-A0xQXM {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .lim-teck-whye-Jxwyhh {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.student-work-review .signup-btn-0ClYxK {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 37px;
+  top: calc(50.00% - 24px);
+  width: 193px;
+}
+
+.student-work-review .rectangle-1-4fVKzA {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .view-4fVKzA {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.student-work-review .group-3600-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 64px;
+  position: absolute;
+  top: 318px;
+  width: 1797px;
+}
+
+.student-work-review .rectangle-1495-icwyMZ {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .group-3592-icwyMZ {
+  background-color: transparent;
+  bottom: calc(48.72% - 28px);
+  height: 57px;
+  left: 15px;
+  position: absolute;
+  width: 1017px;
+}
+
+.student-work-review .points-Yajvlr {
+  background-color: transparent;
+  bottom: calc(48.38% - 13px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 88px;
+  text-align: left;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.student-work-review .x2050-Yajvlr {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 32.3px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(31.78% - 8px);
+  white-space: nowrap;
+  width: 48px;
+}
+
+.student-work-review .group-10-Yajvlr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 57px;
+}
+
+.student-work-review .rectangle-15-copy-6-jBx4a3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .clip-aWvkqf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .layer-19-copy-QVNTdO {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.student-work-review .layer-19-AxEPyF {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .lim-teck-whye-Yajvlr {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.student-work-review .signup-btn-icwyMZ {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 37px;
+  top: calc(50.00% - 24px);
+  width: 193px;
+}
+
+.student-work-review .rectangle-1-9xP9Q3 {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .view-9xP9Q3 {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.student-work-review .group-3601-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 64px;
+  position: absolute;
+  top: 429px;
+  width: 1797px;
+}
+
+.student-work-review .rectangle-1495-w6xhMP {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .group-3592-w6xhMP {
+  background-color: transparent;
+  bottom: calc(48.72% - 28px);
+  height: 57px;
+  left: 15px;
+  position: absolute;
+  width: 1017px;
+}
+
+.student-work-review .points-X1dWJn {
+  background-color: transparent;
+  bottom: calc(48.38% - 13px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 88px;
+  text-align: left;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.student-work-review .x2050-X1dWJn {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 32.3px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(31.78% - 8px);
+  white-space: nowrap;
+  width: 48px;
+}
+
+.student-work-review .group-10-X1dWJn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 57px;
+}
+
+.student-work-review .rectangle-15-copy-6-dPMrvK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .clip-xxh70b {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .layer-19-copy-oXcbOf {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.student-work-review .layer-19-Tz1nux {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .lim-teck-whye-X1dWJn {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.student-work-review .signup-btn-w6xhMP {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 37px;
+  top: calc(50.00% - 24px);
+  width: 193px;
+}
+
+.student-work-review .rectangle-1-7gZUDY {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .view-7gZUDY {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.student-work-review .group-3602-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 64px;
+  position: absolute;
+  top: 540px;
+  width: 1797px;
+}
+
+.student-work-review .rectangle-1495-QCxF6W {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .group-3592-QCxF6W {
+  background-color: transparent;
+  bottom: calc(48.72% - 28px);
+  height: 57px;
+  left: 15px;
+  position: absolute;
+  width: 1017px;
+}
+
+.student-work-review .points-ZHKClv {
+  background-color: transparent;
+  bottom: calc(48.38% - 13px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 88px;
+  text-align: left;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.student-work-review .x2050-ZHKClv {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 32.3px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(31.78% - 8px);
+  white-space: nowrap;
+  width: 48px;
+}
+
+.student-work-review .group-10-ZHKClv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 57px;
+}
+
+.student-work-review .rectangle-15-copy-6-k2Rd3x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .clip-kDxByI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .layer-19-copy-qlYkzJ {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.student-work-review .layer-19-EcCWU3 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .lim-teck-whye-ZHKClv {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.student-work-review .signup-btn-QCxF6W {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 37px;
+  top: calc(50.00% - 24px);
+  width: 193px;
+}
+
+.student-work-review .rectangle-1-toAUnz {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .view-toAUnz {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.student-work-review .group-3603-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 64px;
+  position: absolute;
+  top: 651px;
+  width: 1797px;
+}
+
+.student-work-review .rectangle-1495-fTPZbb {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .group-3592-fTPZbb {
+  background-color: transparent;
+  bottom: calc(48.72% - 28px);
+  height: 57px;
+  left: 15px;
+  position: absolute;
+  width: 1017px;
+}
+
+.student-work-review .points-LqxKIf {
+  background-color: transparent;
+  bottom: calc(48.38% - 13px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 88px;
+  text-align: left;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.student-work-review .x2050-LqxKIf {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 32.3px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(31.78% - 8px);
+  white-space: nowrap;
+  width: 48px;
+}
+
+.student-work-review .group-10-LqxKIf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 57px;
+}
+
+.student-work-review .rectangle-15-copy-6-5sZSNV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .clip-3FsmcS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .layer-19-copy-RNRzEm {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.student-work-review .layer-19-Qyrg8f {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .lim-teck-whye-LqxKIf {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.student-work-review .signup-btn-fTPZbb {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 37px;
+  top: calc(50.00% - 24px);
+  width: 193px;
+}
+
+.student-work-review .rectangle-1-W6SwXT {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .view-W6SwXT {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.student-work-review .group-3604-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 64px;
+  position: absolute;
+  top: 762px;
+  width: 1797px;
+}
+
+.student-work-review .rectangle-1495-XYK6N0 {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .group-3592-XYK6N0 {
+  background-color: transparent;
+  bottom: calc(48.72% - 28px);
+  height: 57px;
+  left: 15px;
+  position: absolute;
+  width: 1017px;
+}
+
+.student-work-review .points-TxgWjN {
+  background-color: transparent;
+  bottom: calc(48.38% - 13px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 88px;
+  text-align: left;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.student-work-review .x2050-TxgWjN {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 32.3px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(31.78% - 8px);
+  white-space: nowrap;
+  width: 48px;
+}
+
+.student-work-review .group-10-TxgWjN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 57px;
+}
+
+.student-work-review .rectangle-15-copy-6-DWbWKz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .clip-xoqB5B {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .layer-19-copy-hChwo7 {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.student-work-review .layer-19-HCpA3f {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .lim-teck-whye-TxgWjN {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.student-work-review .signup-btn-XYK6N0 {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 37px;
+  top: calc(50.00% - 24px);
+  width: 193px;
+}
+
+.student-work-review .rectangle-1-zbBLeA {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .view-zbBLeA {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.student-work-review .group-3605-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 64px;
+  position: absolute;
+  top: 873px;
+  width: 1797px;
+}
+
+.student-work-review .rectangle-1495-14ybeI {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .group-3592-14ybeI {
+  background-color: transparent;
+  bottom: calc(48.72% - 28px);
+  height: 57px;
+  left: 15px;
+  position: absolute;
+  width: 1017px;
+}
+
+.student-work-review .points-6lx0tA {
+  background-color: transparent;
+  bottom: calc(48.38% - 13px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 88px;
+  text-align: left;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.student-work-review .x2050-6lx0tA {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 32.3px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(31.78% - 8px);
+  white-space: nowrap;
+  width: 48px;
+}
+
+.student-work-review .group-10-6lx0tA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 57px;
+}
+
+.student-work-review .rectangle-15-copy-6-9xVBWe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .clip-O0djkt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .layer-19-copy-xF3LOB {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -13px;
+  position: relative;
+  top: 1px;
+  width: calc(100.00% + 23px);
+}
+
+.student-work-review .layer-19-RuYCNE {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.student-work-review .lim-teck-whye-6lx0tA {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.student-work-review .signup-btn-14ybeI {
+  background-color: transparent;
+  height: 48px;
+  position: absolute;
+  right: 37px;
+  top: calc(50.00% - 24px);
+  width: 193px;
+}
+
+.student-work-review .rectangle-1-HKlJfr {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.student-work-review .view-HKlJfr {
+  background-color: transparent;
+  bottom: calc(31.82% - 8px);
+  height: 26px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: 40px;
+}
